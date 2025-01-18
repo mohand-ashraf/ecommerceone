@@ -1,0 +1,2106 @@
+{
+    "data" : [
+    {
+        "id": 1,
+        "type": "mobile",
+        "title": "Apple iPhone 13 with FaceTime - 128GB, 4GB RAM, 4G LTE, Pink, Single SIM & E-SIM - International Warranty",
+        "price": 32000,
+        "image": "mobiles/iphone 13/1.jpg",
+        "image2": "mobiles/iphone 13/61ecgBYOAJL._AC_SX679_.jpg",
+        "image3": "mobiles/iphone 13/61szJM-9YzL._AC_SX679_.jpg",
+        "image4": "mobiles/iphone 13/71uNkgYrWcL._AC_SX679_.jpg",
+        "image5": "mobiles/iphone 13/817WqZsxjWL._AC_SX679_.jpg",
+        "image6": "mobiles/iphone 13/81146KBQCJL._AC_SX679_.jpg",
+        "details": 
+            {
+                "brandName": "Apple",
+                "operatingSystem": "iOS 15",
+                "ram": "4 GB",
+                "cpuModel": "A13",
+                "cpuSpeed": "2.5 GHz",
+                "memoryStorage": "128 GB",
+                "size": "6.1 Inches",
+                "resolution": "2560 x 1440",
+                "refreshRate": "60 Hz",
+                "modelName": "iPhone 13"
+            },
+        "about": 
+            {
+                "about1": "6.1-inch Super Retina XDR display",
+                "about2": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+                "about3": "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+                "about4": "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+                "about5": "A15 Bionic chip for lightning-fast performance",
+                "about6": "Up to 19 hours of video playback",
+                "about7": "Durable design with Ceramic Shield",
+                "about8": "Industry-leading IP68 water resistance",
+                "about9": "5G capable",
+                "about10": "iOS 15 packs new features to do more with iPhone than ever before"
+            }
+    },
+    {
+        "id": 2,
+        "type": "mobile",
+        "title": "Apple iPhone 13 with FaceTime - 128GB, 4GB RAM, 4G LTE, Midnight black, Single SIM & E-SIM - International Warranty",
+        "price": 32000,
+        "image": "mobiles/iphone 13 2/1.jpg",
+        "image2": "mobiles/iphone 13 2/61qD-qiTKEL._AC_SL1500_.jpg",
+        "image3": "mobiles/iphone 13 2/71SfvBP1gBL._AC_SL1500_.jpg",
+        "image4": "mobiles/iphone 13 2/81Ut+VbRibL._AC_SL1500_.jpg",
+        "image5": "mobiles/iphone 1 2/619SXQ2YZHL._AC_SL1500_.jpg",
+        "image6": "mobiles/iphone 13 2/817WqZsxjWL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "operatingSystem": "iOS",
+                "ram": "4 GB",
+                "cpuModel": "A13",
+                "memoryStorage": "128 GB",
+                "size": "6.1 Inches",
+                "resolution": "1170 x 2532",
+                "refreshRate": "60 Hz",
+                "modelName": "iPhone 13"
+            },
+        "about": 
+            {
+                "about1": "6.1-inch Super Retina XDR display",
+                "about2": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+                "about3": "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+                "about4": "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+                "about5": "A15 Bionic chip for lightning-fast performance",
+                "about6": "Up to 19 hours of video playback",
+                "about7": "Durable design with Ceramic Shield",
+                "about8": "Industry-leading IP68 water resistance",
+                "about9": "5G capable",
+                "about10": "iOS 15 packs new features to do more with iPhone than ever before"
+            }
+    },
+    {
+        "id": 3,
+        "type": "mobile",
+        "title": "Apple iPhone 13 with FaceTime - 128GB, 4GB RAM, 4G LTE, Starlight, Single SIM & E-SIM - International Warranty",
+        "price": 32000,
+        "image": "mobiles/iphone 13 3/1.jpg",
+        "image2": "mobiles/iphone 13 3/61BvZ6EbUvL._AC_SX522_.jpg",
+        "image3": "mobiles/iphone 13 3/61URMULPwYL._AC_SX522_.jpg",
+        "image4": "mobiles/iphone 13 3/71OxEU5mSCL._AC_SX522_.jpg",
+        "image5": "mobiles/iphone 13 3/81FDwLT80uL._AC_SX522_.jpg",
+        "image6": "mobiles/iphone 13 3/817WqZsxjWL._AC_SX522_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "operatingSystem": "iOS",
+                "ram": "4 GB",
+                "cpuModel": "A13",
+                "memoryStorage": "128 GB",
+                "size": "6.1 Inches",
+                "resolution": "3840 x 2160",
+                "refreshRate": "60 Hz",
+                "modelName": "iPhone 13"
+            },
+        "about": 
+            {
+                "about1": "6.1-inch Super Retina XDR display",
+                "about2": "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+                "about3": "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+                "about4": "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+                "about5": "A15 Bionic chip for lightning-fast performance",
+                "about6": "Up to 19 hours of video playback",
+                "about7": "Durable design with Ceramic Shield",
+                "about8": "Industry-leading IP68 water resistance",
+                "about9": "5G capable",
+                "about10": "iOS 15 packs new features to do more with iPhone than ever before"
+            }
+    },
+    {
+        "id": 4,
+        "type": "mobile",
+        "title": "New Apple iPhone 14 Plus (128 GB) - Midnight, Bluetooth, Wi-Fi, USB, NFC",
+        "price": 40000,
+        "image": "mobiles/iphone 14 plus/1.jpg",
+        "image2": "mobiles/iphone 14 plus/51mqz8Xu9iL._AC_SX679_.jpg",
+        "image3": "mobiles/iphone 14 plus/71a1d4f8AxL._AC_SX679_.jpg",
+        "image4": "mobiles/iphone 14 plus/71coruBoOPL._AC_SX679_.jpg",
+        "image5": "mobiles/iphone 14 plus/71UAfHaXMTL._AC_SX679_.jpg",
+        "image6": "mobiles/iphone 14 plus/81nwEPH5T0L._AC_SX679_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "operatingSystem": "iOS 12",
+                "cpuModel": "A13",
+                "memoryStorage": "128 GB",
+                "size": "6.7 Inches",
+                "resolution": "1080 x 2160",
+                "refreshRate": "120 Hz",
+                "modelName": "iPhone 14 Plus"
+            },
+        "about": 
+            {
+                "about1": "6.7-inch Super Retina XDR display",
+                "about2": "Advanced camera system for better photos in any light",
+                "about3": "Cinematic mode now in 4K Dolby Vision up to 30 fps",
+                "about4": "Action mode for smooth, steady, handheld videos",
+                "about5": "Vital safety features€”Emergency SOS via satellite and Crash Detection"
+            }
+    },
+    {
+        "id": 5,
+        "type": "mobile",
+        "title": "Samsung Galaxy A55 5G, Android Smartphone, Dual SIM Mobile Phone, 8GB RAM, 128GB Storage, Awesome Iceblue -1 Year Warranty/Local Version",
+        "price": 23000,
+        "image": "mobiles/Samsung Galaxy A55/1.jpg",
+        "image2": "mobiles/Samsung Galaxy A55/41+dk8b4+OL._AC_SL1500_.jpg",
+        "image3": "mobiles/Samsung Galaxy A55/41TLwEyPz9L._AC_SL1500_.jpg",
+        "image4": "mobiles/Samsung Galaxy A55/51QoWcfEdYL._AC_SL1500_.jpg",
+        "image5": "mobiles/Samsung Galaxy A55/61UpnjTTo8L._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "operatingSystem": "Android 11.0",
+                "ram": "8 GB",
+                "cpuModel": "Snapdragon",
+                "cpuSpeed": "2.3 GHz",
+                "memoryStorage": "128 GB",
+                "size": "6.5 Inches",
+                "resolution": "1080 x 2340",
+                "modelName": "Samsung Galaxy A55"
+            },
+        "about":
+            {
+                "about1": "Capture stunning photos and videos with the triple-lens 50MP+12MP+5MP rear camera system, featuring advanced optical image stabilization and up to 10x digital zoom.",
+                "about2": "Enjoy a cinema-grade viewing experience on the vibrant 6.6-inch Super AMOLED display, with a silky-smooth 120Hz refresh rate for fluid scrolling and seamless gameplay.",
+                "about3": "Power through your day with the massive 5,000mAh battery, offering up to 25 hours of internet usage time on LTE and up to 79 hours of audio playback.",
+                "about4": "Stay connected with lightning-fast 5G, Wi-Fi 6, and Bluetooth 5.3 connectivity, allowing you to easily switch between devices and share content with friends and family.",
+                "about5": "Seamlessly integrate your digital life with the expansive Galaxy ecosystem, featuring compatible wearables, smart home devices, and the powerful SmartThings platform."
+            }
+    },
+    {
+        "id": 6,
+        "type": "mobile",
+        "title": "Samsung Galaxy S24 Ultra, AI Phone, 256GB Storage, Titanium Gray, 12GB RAM, Android Smartphone, 200MP Camera, S Pen, Long Battery Life",
+        "price": 80950,
+        "image": "mobiles/samsung galaxy s24 ultra/1.jpg",
+        "image2": "mobiles/samsung galaxy s24 ultra/61E4aAM23SL._AC_SL1500_.jpg",
+        "image3": "mobiles/samsung galaxy s24 ultra/71+u4NUZsFL._AC_SL1500_.jpg",
+        "image4": "mobiles/samsung galaxy s24 ultra/71BJeKKD+zL._AC_SL1500_.jpg",
+        "image5": "mobiles/samsung galaxy s24 ultra/71nzd5cDv-L._AC_SL1500_.jpg",
+        "image6": "mobiles/samsung galaxy s24 ultra/71TOfs+IfNL._AC_SL1500_.jpg",
+        "image7": "mobiles/samsung galaxy s24 ultra/71xefLMjjaL._AC_SL1500_.jpg",
+        "image8": "mobiles/samsung galaxy s24 ultra/71ZizBBjvBL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "operatingSystem": "Android",
+                "ram": "12 GB",
+                "cpuModel": "1.2GHz Cortex A13 Processor",
+                "cpuSpeed": "1.8 GHz",
+                "memoryStorage": "256 GB",
+                "size": "6.8 Inches",
+                "resolution": "1440 x 3120",
+                "refreshRate": "492 Hz",
+                "modelName": "Galaxy S24 Ultra"
+            },
+        "about":
+            {
+                "about1": "AI Features: Search like never before, get real-time interpretation on a call, format your notes into a clear summary and effortlessly edit your photos - all from your smartphone, all with AI.",
+                "about2": "Armor up with titanium: With a durable shield of titanium built right into the frame and better scratch resistance with Corning IP68 water and dust resistant Galaxy S24 Ultra is ready for adventure.",
+                "about3": "Built-in S Pen writes a new chapter: The legacy of Galaxy Note is alive and well. Write, tap and navigate with precision your fingers wish they had on the new, flat display.",
+                "about4": "200MP. Details that rival reality: Capture stunning details with the most megapixels on a smartphone and AI processing. The enhanced ProVisual Engine recognizes objects — improving color tone, reducing noise and bringing out detail.",
+                "about5": "All-day battery to play on and on: With massive capacity and greater energy efficiency, Ultra's battery gives you extra life when it matters most — you know, like the epic boss battle you've been gearing up for."
+            }
+    },
+    {
+        "id": 7,
+        "type": "mobile",
+        "title": "Samsung Galaxy Z Fold6 (AI Phone) - 12GB RAM + 256GB Storage - Light Pink, 1 Year Local Warranty",
+        "price": 79999,
+        "image": "mobiles/Samsung Galaxy Z/1.jpg",
+        "image2": "mobiles/Samsung Galaxy Z/71BMgWvk-yL._AC_SX679_.jpg",
+        "image3": "mobiles/Samsung Galaxy Z/71dS+BqDWEL._AC_SX679_.jpg",
+        "image4": "mobiles/Samsung Galaxy Z/71i0vGbXUDL._AC_SX679_.jpg",
+        "image5": "mobiles/Samsung Galaxy Z/71pv+yN8WjL._AC_SX679_.jpg",
+        "image7": "mobiles/Samsung Galaxy Z/71VYzFw3kFL._AC_SX679_.jpg",
+        "image8": "mobiles/Samsung Galaxy Z/718NYftLayL._AC_SX679_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "operatingSystem": "Android",
+                "ram": "12 GB",
+                "cpuModel": "Phenom Quad-Core",
+                "memoryStorage": "256 GB",
+                "modelName": "Galaxy Z Fold6"
+            },
+        "about":
+            {
+                "about1": "Galaxy AI: Put PC-like power in your pocket, Galaxy Z Fold6. Now super-charged with Galaxy Al on foldables.",
+                "about2": "Design: Thinner and lighter- with a pocket-worthy silhouette, and an even brighter, awe inspiring fold-out screen.",
+                "about3": "Durability: Durable, reliable and built to last. Meet our slim and innovative FlexHinge.",
+                "about4": "Gaming Performance: Powerful gaming with the fastest processor on a Samsung foldable. Enjoy silky-smooth gaming at high specs.",
+                "about5": "Battery: Our battery ensures all-day enjoyment. It's not just a massive battery, but also leverages an efficient display.",
+                "about6": "Camera: Meet Fold's most powerful camera system yet.Topped with an upgraded NPU, mind-blowing specs and ProVisual Engine, it'll transform your multimedia experience.",
+                "about7": "Super HDR: Brighten things up. Super HDR puts the right emphasis on details to pop and impress, even befort you take the picture.",
+                "about8": "Large Screen: Fold open a mobile gaming beast with a massive screen made better with the Vision Booster's powerful brightness and clarity even in broad daylight."
+            }
+    },
+    {
+        "id": 8,
+        "type": "mobile",
+        "title": "Xiaomi POCO C75 C3NP Immersive 6.88 display Massive 5160mAh (typ) battery Clear 50MP AI dual camera Powerful octa-core processor Up to 120Hz High refresh rate TÜV Rheinland 8+256 (Gold)",
+        "price": 6899,
+        "image": "mobiles/Xiaomi POCO C75/1.jpg",
+        "image2": "mobiles/Xiaomi POCO C75/51C0M5MvSdL._AC_.jpg",
+        "image3": "mobiles/Xiaomi POCO C75/51hry406c4L._AC_SL1000_.jpg",
+        "image4": "mobiles/Xiaomi POCO C75/51Mr3ZSNcaL._AC_SL1000_.jpg",
+        "image5": "mobiles/Xiaomi POCO C75/51NmcbUQQkL._AC_.jpg",
+        "image6": "mobiles/Xiaomi POCO C75/51OzrqIZINL._AC_.jpg",
+        "image7": "mobiles/Xiaomi POCO C75/51wYzhs47eL._AC_.jpg",
+        "image8": "mobiles/Xiaomi POCO C75/61TTYW-sw7L._AC_.jpg",
+        "details": 
+            {
+                "brandName": "Xiaomi",
+                "operatingSystem": "Android 13.0",
+                "memoryStorage": "256 GB",
+                "modelName": "POCO C75"
+            },
+        "about":
+            {
+                "about1": "6.88 cinema-view display Immersive large screen",
+                "about2": "Massive 5160mAh (typ) battery",
+                "about3": "Clear 50MP AI dual camera",
+                "about4": "Smart high refresh rate display Silky smooth and energy efficient",
+                "about5": "Two TÜV Rheinland certifications Next-generation low blue light display"
+            }
+    },
+    {
+        "id": 9,
+        "type": "mobile",
+        "title": "Xiaomi Redmi 12C (Mint Green 6GB RAM, 128 Storage) - Powerful MediaTek Helio G85 | Immersive 6.71'' HD+ display | 50MP AI dual camera | 5000mAh long-lasting battery",
+        "price": 5999,
+        "image": "mobiles/Xiaomi Redmi 12C/1.jpg",
+        "image2": "mobiles/Xiaomi Redmi 12C/51kTi9eLfgL._AC_SL1000_.jpg",
+        "image3": "mobiles/Xiaomi Redmi 12C/51LAUZj+B8L._AC_SL1000_.jpg",
+        "image4": "mobiles/Xiaomi Redmi 12C/61kx45Xb1ZL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "Xiaomi",
+                "operatingSystem": "Android 12.0",
+                "ram": "6 GB",
+                "cpuModel": "Snapdragon",
+                "cpuSpeed": "2 GHz",
+                "memoryStorage": "128 GB",
+                "size": "6.71 Inches",
+                "resolution": "720 x 1280",
+                "refreshRate": "60 Hz",
+                "modelName": "Redmi 12C"
+            },
+        "about":
+            {
+                "about1": "Powerful MediaTek Helio G85",
+                "about2": "Immersive 6.71 HD+ display",
+                "about3": "50MP AI dual camera",
+                "about4": "5000mAh long-lasting battery"
+            }
+    },
+    {
+        "id": 10,
+        "type": "mobile",
+        "title": "Xiaomi redmi note 11 dual sim amoled dotdisplay star blue 4gb ram 128gb 4g lte, Bluetooth, Wi-Fi, Infrared, USB, NFC",
+        "price": 7899,
+        "image": "mobiles/Xiaomi redmi note 11/1.jpg",
+        "image2": "mobiles/Xiaomi redmi note 11/31gdc5epXCL._AC_SL1000_.jpg",
+        "image3": "mobiles/Xiaomi redmi note 11/31lcr3aioRL._AC_SL1000_.jpg",
+        "image4": "mobiles/Xiaomi redmi note 11/41aibBxc6vL._AC_SL1000_.jpg",
+        "image5": "mobiles/Xiaomi redmi note 11/41aoPQ30K6L._AC_SL1000_.jpg",
+        "image6": "mobiles/Xiaomi redmi note 11/41IHSGdZQML._AC_SL1000_.jpg",
+        "image7": "mobiles/Xiaomi redmi note 11/41lFDJqZAiL._AC_SL1000_.jpg",
+        "image8": "mobiles/Xiaomi redmi note 11/41QD14JgaML._AC_SL1000_.jpg",
+        "image9": "mobiles/Xiaomi redmi note 11/41xLIQoN5kL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "Xiaomi",
+                "operatingSystem": "Android 11.0",
+                "ram": "128 GB",
+                "cpuModel": "Snapdragon",
+                "cpuSpeed": "2.4 GHz",
+                "memoryStorage": "128 GB",
+                "size": "6.43 Inches",
+                "resolution": "1080 x 2400",
+                "refreshRate": "90 Hz",
+                "modelName": "Xiaomi Redmi Note 11"
+            },
+        "about":
+            {
+                "about1": "Storage: 128GB 4GB RAM",
+                "about2": "Display: 643 inches 998 cm2 (~845% screen-to-body ratio)",
+                "about3": "Camera: 13 MP f/24 (wide)",
+                "about4": "Platform: Android 11 MIUI 13 Qualcomm SM6225 Snapdragon 680 4G (6 nm)",
+                "about5": "Battery: Li-Po 5000 mAh non-removable"
+            }
+    },
+    {
+        "id": 11,
+        "type": "laptop",
+        "title": "2022 Apple MacBook Air laptop with M2 chip: 13.6-inch Liquid Retina display, 8GB RAM, 256GB SSD storage, 1080p FaceTime HD camera. Works with iPhone and iPad; Midnight; English",
+        "price": 52950,
+        "image": "laptops/2022 Apple MacBook/1.jpg",
+        "image2": "laptops/2022 Apple MacBook/61EX--SjBtL._AC_SL1500_.jpg",
+        "image3": "laptops/2022 Apple MacBook/81KkPxLdUPL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "operatingSystem": "Mac OS",
+                "ram": "8 GB",
+                "color": "Midnight",
+                "size": "13.6 Inches",
+                "modelName": "2022 Apple MacBook Air laptop"
+            },
+        "about":
+            {
+                "about1": "Brand: Apple",
+                "about2": "Operating system: Mac OS",
+                "about3": "Brand: Apple",
+                "about4": "Operating system: Mac OS"
+            }
+    },
+    {
+        "id": 12,
+        "type": "laptop",
+        "title": "Apple 2023 MacBook Pro Laptop M3 chip with 8-core CPU, 10-core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 8GB Unified Memory, 512GB SSD Storage; Space Gray",
+        "price": 85999,
+        "image": "laptops/Apple 2023 MacBook Pro Laptop/1.jpg",
+        "image2": "laptops/Apple 2023 MacBook Pro Laptop/51F3VC-1hML._AC_SL1500_.jpg",
+        "image3": "laptops/Apple 2023 MacBook Pro Laptop/61Ccoo9VLbL._AC_SL1500_.jpg",
+        "image4": "laptops/Apple 2023 MacBook Pro Laptop/61Ov+wZuOoL._AC_SL1200_.jpg",
+        "image5": "laptops/Apple 2023 MacBook Pro Laptop/61RdWPq8UfL._AC_SL1500_.jpg",
+        "image6": "laptops/Apple 2023 MacBook Pro Laptop/71mhIJSqKhL._AC_SL1500_.jpg",
+        "image7": "laptops/Apple 2023 MacBook Pro Laptop/81+aD48nbPL._AC_SL1500_.jpg",
+        "image8": "laptops/Apple 2023 MacBook Pro Laptop/81L+-q96vSL._AC_SL1500_.jpg",
+        "image9": "laptops/Apple 2023 MacBook Pro Laptop/616URSTkYhL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "operatingSystem": "Mac OS",
+                "ram": "8 GB",
+                "color": "Space Gray",
+                "size": "14.2 Inches",
+                "modelName": "MacBook Pro"
+            },
+        "about":
+            {
+                "about1": "SUPERCHARGED BY M3 — With an 8-core CPU and 10-core GPU, the Apple M3 chip can help you blaze through everyday multitasking and take on pro projects like editing thousands of photos or 4K video.",
+                "about2": "BUILT FOR APPLE INTELLIGENCE — Apple Intelligence helps you write, express yourself, and get things done effortlessly. It draws on your personal context while setting a brand-new standard for privacy in AI. Coming in beta this fall.",
+                "about3": "UP TO 22 HOURS OF BATTERY LIFE — Go all day thanks to the power-efficient design of Apple silicon. The MacBook Pro laptop delivers the same exceptional performance whether it’s running on battery or plugged in. (Battery life varies by use and configuration. See apple.com/batteries for more information.)",
+                "about4": "BRILLIANT PRO DISPLAY — The 14.2-inch Liquid Retina XDR display features Extreme Dynamic Range, 1000 nits of sustained brightness for stunning HDR content, up to 600 nits of brightness for SDR content, and pro reference modes for doing your best work on the go. (The display has rounded corners at the top. (Measured diagonally, the screen is 14.2 inches. Actual viewable area is less.)",
+                "about5": "FULLY COMPATIBLE — All your pro apps run lightning fast — including Adobe Creative Cloud, Apple Xcode, Microsoft 365, Medivis SurgicalAR, and many of your favorite iPhone and iPad apps. And with macOS, work and play on your Mac are even more powerful. Elevate your presence on video calls. Access information in all-new ways. And discover even more ways to personalize your Mac."
+            }
+    },
+    {
+        "id": 13,
+        "type": "laptop",
+        "title": "Apple Macbook Air 2020 Model, (13-Inch, Apple M1 chip with 8-core CPU and 7-core GPU, 8GB, 256GB, MGND3), Eng-KB, Gold",
+        "price": 40950,
+        "image": "laptops/Apple Macbook Air 2020 Model/1.jpg",
+        "image2": "laptops/Apple Macbook Air 2020 Model/61UVTIkDLuL._AC_SL1500_.jpg",
+        "image3": "laptops/Apple Macbook Air 2020 Model/71hHMsqVzGL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "operatingSystem": "Mac OS",
+                "ram": "8 GB",
+                "color": "Gold",
+                "size": "13 Inches",
+                "modelName": "Apple Macbook Air 2020 Model"
+            },
+        "about":
+            {
+                "about1": "Touch ID with one touch is enough to lock and unlock your MacBook Air",
+                "about2": "Enjoy absolute comfort from A to Z. In addition to typing at your leisure, with the pre programmed shortcuts on this keyboard you can instantly access the features you use the most",
+                "about3": "The M1 chip carries our most advanced image signal processor so you always look great on your FaceTime video calls",
+                "about4": "Enjoy the views. Rest your eyes. The MacBook Air knows how to automatically adjust the white point of the screen according to the ambient color temperature, so it is more comfortable to look at",
+                "about5": "The 2,560 by 1,600 pixel resolution of the 13.3 inch Retina display offers astonishing detail and realism"
+            }
+    },
+    {
+        "id": 14,
+        "type": "laptop",
+        "title": "DELL G15 5520 Gaming Laptop - 12th Intel Core i7-12700H 14 Cores,16GB DDR5-4800 Mhz RAM, 1 TB SSD, Nvidia Geforce RTX 3060 6GB GDDR6 Graphics, 15.6 FHD (1920X1080) 165 Hz, Backlit Keyboard,Windows 11",
+        "price": 62699,
+        "image": "laptops/DELL G15 5520/1.jpg",
+        "image2": "laptops/DELL G15 5520/51ewxNTTKPL._AC_SL1500_.jpg",
+        "image3": "laptops/DELL G15 5520/71-8QiYufkL._AC_SL1500_.jpg",
+        "image4": "laptops/DELL G15 5520/81JSZ9nG6nL._AC_SL1500_.jpg",
+        "image5": "laptops/DELL G15 5520/81LATGUp2vL._AC_SL1500_.jpg",
+        "image6": "laptops/DELL G15 5520/81qQYHjF0LL._AC_SL1500_.jpg",
+        "image7": "laptops/DELL G15 5520/517l0kf9IWL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Dell",
+                "operatingSystem": "Windows 11",
+                "ram": "16 GB",
+                "color": "Dark Shadow Grey",
+                "size": "15.6 Inches",
+                "modelName": "DELL G15 5520 GAMING"
+            },
+        "about":
+            {
+                "about1": "DELL G15 5520 Gaming Laptop - 12th Intel Core i7-12700H (24 MB cache, 14 core, up to 4.70 GHz), NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 16GB DDR5 4800MHz RAM, 1TB M.2 PCIe NVMe SSD, 15.6 FHD (1920x1080) 165Hz, 6-Cell Battery 86WHr (Integrated) , 240W AC Adapter, English Arabic Qwerty 4-Zone RGB Backlit Keyboard, Windows 11 - Dark Shadow Gray"
+            }
+    },
+    {
+        "id": 15,
+        "type": "laptop",
+        "title": "DELL G15 5530 Gaming Laptop - 13th Intel Core i7-13650HX 14 Cores, NVIDIA GeForce RTX 3050 6GB GDDR6 Graphics, 16GB DDR5-4800 MHz RAM, 512GB SSD, 15.6 FHD (1920x1080) 120Hz, 4Z RGB Backlit, Ubuntu",
+        "price": 51999,
+        "image": "laptops/DELL G15 5530/1.jpg",
+        "image2": "laptops/DELL G15 5530/31acHDJ02eL._AC_.jpg",
+        "image3": "laptops/DELL G15 5530/31jPImAn8fL._AC_.jpg",
+        "image4": "laptops/DELL G15 5530/31vUnxpX7sL._AC_.jpg",
+        "image5": "laptops/DELL G15 5530/51VupN5WkaL._AC_.jpg",
+        "image6": "laptops/DELL G15 5530/3153mFJ1swL._AC_.jpg",
+        "image7": "laptops/DELL G15 5530/owdiejfowj.jpg",
+        "details":
+            {
+                "brandName": "Dell",
+                "operatingSystem": "Ubuntu",
+                "ram": "16 GB",
+                "color": "Dark Shadow Gray with Black thermal shelf",
+                "size": "15.6 Inches",
+                "modelName": "G15 5530 Gaming"
+            },
+        "about":
+            {
+                "about1": "DELL G15 5530 Gaming Laptop - 13th Intel Core i7-13650HX (24 MB cache, 1 4 core, up to 4.90 GHz), NVIDIA GeForce RTX 3050 6GB GDDR6 Graphics, 16GB (2x8GB) DDR5 4800MHz RAM, 512GB M.2 PCIe NVMe SSD, 15.6 FHD (1920x1080) 120Hz, 3-Cell Battery 56WHr (Integrated) , 240W AC Adapter, English Arabic Qwerty 4-Zone RGB Backlit Keyboard with Numeric Keypad and G-Key, UBUNTU - Dark Shadow Gray"
+            }
+    },
+    {
+        "id": 16,
+        "type": "laptop",
+        "title": "HP Laptop 15-fd0022ne - Intel Core i7-1355U 13th Generation, 8GB RAM, 512GB SSD, Integrated, Intel Iris X Graphics, 15.6 FHD (1920 x 1080) anti-glare 250 nits, DOS - natural silver",
+        "price": 31399,
+        "image": "laptops/HP Laptop 15-fd0022ne/1.jpg",
+        "image2": "laptops/HP Laptop 15-fd0022ne/21i2R35B4VL._AC_.jpg",
+        "image3": "laptops/HP Laptop 15-fd0022ne/41rfGeZkNDL._AC_.jpg",
+        "image4": "laptops/HP Laptop 15-fd0022ne/41trITozTzL._AC_.jpg",
+        "image5": "laptops/HP Laptop 15-fd0022ne/51tCZCgEb+L._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "HP",
+                "operatingSystem": "DOS",
+                "ram": "8 GB",
+                "color": "Natural Silver",
+                "size": "15.6 Inches",
+                "modelName": "15-fd0022ne"
+            },
+        "about":
+            {
+                "about1": "HP Laptop 15-fd0022ne, FreeDOS 3.0, 15.6, Intel Core i7, 8GB RAM, 512GB SSD, FHD, Natural silver"
+            }
+    },
+    {
+        "id": 17,
+        "type": "laptop",
+        "title": "HP Laptop 15s (15s-fq5048ne), CPU: Core i3-1215U, 4GB DDR4 1DM 3200 Graphics Card: Intel UHD Graphics - UMA, VRAM: Shared, Display: 15.6 FHD SVA 250 nits Narrow Border, 256GB, Windows 11",
+        "price": 18499,
+        "image": "laptops/HP Laptop 15s/1.jpg",
+        "image2": "laptops/HP Laptop 15s/41Hf1Q+ujQL._AC_.jpg",
+        "image3": "laptops/HP Laptop 15s/41ZYwONo3AL._AC_.jpg",
+        "details":
+            {
+                "brandName": "HP",
+                "operatingSystem": "Windows 11",
+                "ram": "4 GB",
+                "color": "Black",
+                "size": "15.6 Inches",
+                "modelName": "15S-FQ5048NE"
+            },
+        "about":
+            {
+                "about1": "Processor: Intel Core i3-1215U, a capable processor for basic tasks.",
+                "about2": "RAM: 4GB, suitable for general use.",
+                "about3": "Graphics: Integrated Intel UHD Graphics for handling everyday tasks.",
+                "about4": "Display: 15.6-inch FHD antiglare ultraslim SVA display with 250 nits brightness for good visibility."
+            }
+    },
+    {
+        "id": 18,
+        "type": "laptop",
+        "title": "HP OMEN 16-k0033dx Gaming Laptop - 12th Intel Core i9-12900H, 16GB DDR5 RAM, 1TB SSD, 16.1 QHD (2560x1440) 165 Hz IPS 300 nits, NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 4Z RGB backlit, Windows 11",
+        "price": 68999,
+        "image": "laptops/HP OMEN 16-k0033dx Gaming Laptop/1.jpg",
+        "image2": "laptops/HP OMEN 16-k0033dx Gaming Laptop/41goipj8jLL._AC_SL1500_.jpg",
+        "image3": "laptops/HP OMEN 16-k0033dx Gaming Laptop/61APyJUFb3L._AC_SL1445_.jpg",
+        "image4": "laptops/HP OMEN 16-k0033dx Gaming Laptop/61AS86upN8L._AC_SL1445_.jpg",
+        "image5": "laptops/HP OMEN 16-k0033dx Gaming Laptop/61jQIin-ykL._AC_SL1500_.jpg",
+        "image6": "laptops/HP OMEN 16-k0033dx Gaming Laptop/71Bre3zp7WL._AC_SL1500_.jpg",
+        "image7": "laptops/HP OMEN 16-k0033dx Gaming Laptop/514zbA34BzL._AC_SL1500_.jpg",
+        "image8": "laptops/HP OMEN 16-k0033dx Gaming Laptop/714rwRWo71L._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "HP",
+                "operatingSystem": "Windows 11",
+                "ram": "16 GB",
+                "color": "Black",
+                "size": "16.1 Inches",
+                "modelName": "HP OMEN 16"
+            },
+        "about":
+            {
+                "about1": "Display: 16.1 inch diagonal QHD (2560 x 1440) 165Hz 3ms response time IPS micro-edge anti-glare low blue light",
+                "about2": "Processor: 12th Gen Intel Core i9-12900H",
+                "about3": "Memory: 16GB DDR5-4800MHz RAM (2 x 8GB)",
+                "about4": "Graphics: NVIDIA GeForce RTX 3060 Laptop GPU (6GB GDDR6 dedicated)",
+                "about5": "Internal Storage: 1TB PCIe Gen4 NVMe M.2 SSD"
+            }
+    },
+    {
+        "id": 19,
+        "type": "laptop",
+        "title": "Lenovo IdeaPad Gaming 3 15IAH7 Laptop - 12th iCore i7-12650H, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 165Hz, Backlit, Dos - Onyx Grey",
+        "price": 50648,
+        "image": "laptops/Lenovo IdeaPad Gaming 3/1.jpg",
+        "image2": "laptops/Lenovo IdeaPad Gaming 3/41cCGPlezSL._AC_SL1000_.jpg",
+        "image3": "laptops/Lenovo IdeaPad Gaming 3/41e058mQjrL._AC_SL1000_.jpg",
+        "image4": "laptops/Lenovo IdeaPad Gaming 3/41yvkmJyELL._AC_SL1000_.jpg",
+        "image5": "laptops/Lenovo IdeaPad Gaming 3/51njTPRDwHL._AC_SL1000_.jpg",
+        "image6": "laptops/Lenovo IdeaPad Gaming 3/51SjQE9w3dL._AC_SL1000_.jpg",
+        "image7": "laptops/Lenovo IdeaPad Gaming 3/51V-qOOSC0L._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "Lenovo",
+                "operatingSystem": "DOS",
+                "ram": "16 GB",
+                "color": "Onyx Grey",
+                "size": "15.6 Inches",
+                "modelName": "Lenovo IdeaPad Gaming 3 15IAH7"
+            },
+        "about":
+            {
+                "about1": "Lenovo IdeaPad Gaming 3 15IAH7 Laptop - 12th Intel Core i7-12650H 10-Cores, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 3060 6GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 165Hz, Backlit, Dos - Onyx Grey",
+                "about2": "HP 15s-eq2383nia Laptop - Ryzen 3 5300U 4-Cores, 8GB RAM , 512GB SSD, AMD Radeon Graphics, 15.6' FHD (1920 x 1080) micro-edge anti-glare 250 nits, DOS - Jet Black"
+            }
+    },
+    {
+        "id": 20,
+        "type": "laptop",
+        "title": "Lenovo Legion 5 15ACH6 Gaming Laptop - Ryzen 5-5600H, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 3050 Ti 4GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 120Hz, Backlit Keyboard, WIN 11",
+        "price": 38999,
+        "image": "laptops/Lenovo Legion 5/1.jpg",
+        "image2": "laptops/Lenovo Legion 5/31C5ey85YIL._AC_SL1000_.jpg",
+        "image3": "laptops/Lenovo Legion 5/31MC2NH6awL._AC_.jpg",
+        "image4": "laptops/Lenovo Legion 5/51HuFWu9EyL._AC_SL1000_.jpg",
+        "image5": "laptops/Lenovo Legion 5/51XX3p1Kb2L._AC_SL1000_.jpg",
+        "image6": "laptops/Lenovo Legion 5/419Sr9XF0WL._AC_SL1165_.jpg",
+        "details":
+            {
+                "brandName": "Lenovo",
+                "operatingSystem": "Windows 11",
+                "ram": "16 GB",
+                "color": "Phantom Blue (Top), Shadow Black (Bottom)",
+                "size": "15.6 Inches",
+                "modelName": "15ACH6-56H16G512G3050W11"
+            },
+        "about":
+            {
+                "about1": "Lenovo Legion 5 15ACH6 Gaming Laptop - Ryzen 5 5600H 6-Cores, 16 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 3050 Ti 4GB GDDR6 Graphics, 15.6 FHD (1920x1080) IPS 120Hz, Backlit Keyboard, Windows 11"
+            }
+    },
+    {
+        "id": 21,
+        "type": "television",
+        "title": "Haier 50 Inch TV -OS Google TV - QLED - Dolby Vision - Dolby Atmos - 4K HDR10 - Gaming 120 Hz - MEMC - remote voice control - HDMI 2.1 /VRR/ALLM -H50S80EU - Model 2024",
+        "price": 21349,
+        "image": "Televisions/Haier 50 Inch TV/1.jpg",
+        "image2": "Televisions/Haier 50 Inch TV/41hRm-BwASL._AC_SL1500_.jpg",
+        "image3": "Televisions/Haier 50 Inch TV/51dDhMQYgUL._AC_SL1500_.jpg",
+        "image4": "Televisions/Haier 50 Inch TV/51H4z55ghyL._AC_SL1500_.jpg",
+        "image5": "Televisions/Haier 50 Inch TV/71tfI9NVi+L._AC_SL1500_.jpg",
+        "image6": "Televisions/Haier 50 Inch TV/71zXsXxe9-L._AC_SX522_.jpg",
+        "image7": "Televisions/Haier 50 Inch TV/617bhfE+ZsL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Haier",
+                "DisplayTechnology": "QLED",
+                "Resolution": "4K",
+                "RefreshRate": "120",
+                "size": "50 Inches",
+                "ItemDimensions": "8D x 111W x 75H centimeters"
+            },
+        "about":
+            {
+                "about1": "OS Google TV - QLED - Dolby Vision - Dolby Atmos - 4K HDR10 - Gaming 120 Hz - MEMC - remote voice control - HDMI 2.1 /VRR/ALLM"
+            }
+    },
+    {
+        "id": 22,
+        "type": "television",
+        "title": "LG 55 Inch UHD UT80 4K Smart TV AI Magic remote HDR10 webOS24-55UT80006LB (2024)",
+        "price": 17999,
+        "image": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/1.jpg",
+        "image2": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/31i7MGbCp8L._AC_SL1500_.jpg",
+        "image3": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/61JUJE32TyL._AC_SL1500_.jpg",
+        "image4": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/71EFb7f207L._AC_SL1500_.jpg",
+        "image5": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/71jyF2soDyL._AC_SL1500_.jpg",
+        "image6": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/71Ko5LdgY1L._AC_SL1500_.jpg",
+        "image7": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/71UXsnR9NJL._AC_SL1500_.jpg",
+        "image8": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/71UXsnR9NJL._AC_SL1500_.jpg",
+        "image9": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/515U-0ZPoBL._AC_SL1500_.jpg",
+        "image10": "Televisions/LG 55 Inch UHD UT80 4K Smart TV/619R+9Y71xL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "LG",
+                "DisplayTechnology": "LED",
+                "Resolution": "4K",
+                "RefreshRate": "60 Hz",
+                "size": "55 Inches",
+                "ItemDimensions": "6D x 124W x 71H centimeters"
+            },
+        "about":
+            {
+                "about1": "Real 4K UHD picture, Breathtaking color and detail with 4K HDR10 Pro",
+                "about2": "Enhanced picture and sound quality with the α5 AI Processor 4K Gen7",
+                "about3": "ThinQ AI webOS with Magic Remote and 4 years of upgrades guaranteed over 5 years with webOS Re:NewProgram",
+                "about4": "True Cinema Experience suported with 4K HDR10,HLG,Filmmaker Mode Advanced Dynamic Tone Mapping",
+                "about5": "Unlimited Gameplay with HGiG , ALLM , HDMI 2.0 eARC , Game Optimizer"
+            }
+    },
+    {
+        "id": 23,
+        "type": "television",
+        "title": "LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series, Cinema Screen Design 4K Active HDR WebOS Smart AI ThinQ - 55UQ75006LG (2022 Model)",
+        "price": 21976,
+        "image": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/1.jpg",
+        "image2": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/41cWbnNpPgL._AC_SL1056_.jpg",
+        "image3": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/51Xig4GKVWL._AC_SL1056_.jpg",
+        "image4": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/61G7ei1Rs+L._AC_SL1056_.jpg",
+        "image5": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/61JMJw0RoHL._AC_SL1056_.jpg",
+        "image6": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/61v00i+NOvL._AC_SL1020_.jpg",
+        "image7": "Televisions/LG UHD TV 4K Smart Televison 55 Inch UQ7500 Series/417L6eVxeEL._AC_SL1056_.jpg",
+        "details":
+            {
+                "brandName": "LG",
+                "Resolution": "4K",
+                "size": "55 Inches"
+            },
+        "about":
+            {
+                "about1": "Brand: Lg",
+                "about2": "Special feature: Smart",
+                "about3": "Included components: Stand",
+                "about4": "Display Size: 55 inches",
+                "about5": "Resolution: 4K"
+            }
+    },
+    {
+        "id": 24,
+        "type": "television",
+        "title": "LG, OLED TV, 77 inch B3 series, WebOS Smart AI ThinQ, Magic Remote, 4 side Cinema, Dolby Vision HDR10, HLG, AI Picture Pro, AI Sound Pro (5.1.2ch), Dolby Atmos, 2 Pole stand, OLED77B36LA.AFU",
+        "price": 125999,
+        "image": "Televisions/LG, OLED TV, 77 inch B3 series/1.jpg",
+        "image2": "Televisions/LG, OLED TV, 77 inch B3 series/21MU1HXsOWL._AC_SL1200_.jpg",
+        "image3": "Televisions/LG, OLED TV, 77 inch B3 series/31RFdH0IyrL._AC_SL1200_.jpg",
+        "image4": "Televisions/LG, OLED TV, 77 inch B3 series/41VmKApPGHL._AC_SL1200_.jpg",
+        "image5": "Televisions/LG, OLED TV, 77 inch B3 series/51bErNNsYAL._AC_SL1200_.jpg",
+        "image6": "Televisions/LG, OLED TV, 77 inch B3 series/51imBgvCwDL._AC_SL1200_.jpg",
+        "image7": "Televisions/LG, OLED TV, 77 inch B3 series/51OP4my9ibL._AC_SL1200_.jpg",
+        "image8": "Televisions/LG, OLED TV, 77 inch B3 series/4164yQ93eAL._AC_SL1200_.jpg",
+        "details":
+            {
+                "brandName": "LG",
+                "DisplayTechnology": "OLED",
+                "Resolution": "4K",
+                "RefreshRate": "120 Hz",
+                "size": "77 Inches",
+                "ItemDimensions": "3.5D x 172W x 99H centimeters"
+            },
+        "about":
+            {
+                "about1": "LG 4K SELF-LIT OLED - true brilliance in clarity of content",
+                "about2": "Perfect Color ( 100% colour fidelity ) Eye Comfort Display",
+                "about3": "α7 AI Processor Gen6 with AI Super Upscaling 4K and Personalized Picture Wizard",
+                "about4": "ThinQ AI webOS Smart TV with Magic Remote",
+                "about5": "True Cinema Experience suported with Dolby Vision IQ | Dolby Atmos Unlimited Gameplay with GSYNC , AMD FreeSync Premium , LG VRR , HGiG HDMI 2.1 , Game Optimizer"
+            }
+    },
+    {
+        "id": 25,
+        "type": "television",
+        "title": "Samsung 55 Inch 4K UHD Smart LED TV - Black - UA55DU7000UXEG [2024 Model]",
+        "price": 18999,
+        "image": "Televisions/Samsung 55 Inch 4K UHD Smart LED TV/1.jpg",
+        "image2": "Televisions/Samsung 55 Inch 4K UHD Smart LED TV/31wNY3T90fL._AC_SL1000_.jpg",
+        "image3": "Televisions/Samsung 55 Inch 4K UHD Smart LED TV/51nPxf5c9bL._AC_SL1000_.jpg",
+        "image4": "Televisions/Samsung 55 Inch 4K UHD Smart LED TV/517PBrCscIL._AC_SL1000_.jpg",
+        "image5": "Televisions/Samsung 55 Inch 4K UHD Smart LED TV/517v+0dSaHL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "DisplayTechnology": "4K LED",
+                "Resolution": "4K",
+                "RefreshRate": "50 Hz",
+                "size": "55 Inches",
+                "ItemDimensions": "6D x 123.1W x 70.7H centimeters"
+            },
+        "about":
+            {
+                "about1": "Model : UA55DU7000UXEG",
+                "about2": "TV with Built-in Receiver and Remote Control",
+                "about3": "Samsung 55 Inch 4K UHD Smart LED",
+                "about4": "HD picture quality Enjoy your HD TV in the digital age we live in. Once you watch images on HDTV with vivid, vivid detail, you can be sure that you will never go back to standard definition devices or to analog TV.",
+                "about5": "Feel true-to-life tones in effective 4K resolution Crystal 4K processor Upscaling to effective 4K ensures you can watch the content you love in up to 4K resolution. We also let you enjoy true-to-life color expressions thanks to our advanced color mapping technology."
+            }
+    },
+    {
+        "id": 26,
+        "type": "television",
+        "title": "Samsung 65 Inch QLED-The Frame 4K Smart TV- QA65LS03DAUXEG [2024 Model]",
+        "price": 44597,
+        "image": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/1.jpg",
+        "image2": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/31zCi2SEOaL._AC_SL1000_.jpg",
+        "image3": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/41iNswvKQNL._AC_SL1000_.jpg",
+        "image4": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/41WGnoCdTiL._AC_SL1000_.jpg",
+        "image5": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/51KJ-LabrHL._AC_SL1000_.jpg",
+        "image6": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/51uBNZ2ZzgL._AC_SL1000_.jpg",
+        "image7": "Televisions/Samsung 65 Inch QLED-The Frame 4K Smart TV/51wHWqO44gL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "DisplayTechnology": "QLED",
+                "Resolution": "4K",
+                "RefreshRate": "100 Hz",
+                "size": "65 Inches",
+                "ItemDimensions": "2.5D x 145.7W x 83.2H centimeters"
+            },
+        "about":
+            {
+                "about1": "Samsung The Frame 65 - QA75LS03DAUXEG",
+                "about2": "Designed to look like a slim photo frame",
+                "about3": "Customizable Frame",
+                "about4": "Art Mode Enjoyment with Matte Display"
+            }
+    },
+    {
+        "id": 27,
+        "type": "television",
+        "title": "Samsung 65 Inch TV Quantum Processor 4K QLED - Carbon Silver - QA65Q80CAUXEG [2023 Model]",
+        "price": 34999,
+        "image": "Televisions/Samsung 65 Inch TV Quantum Processor 4K QLED/1.jpg",
+        "image2": "Televisions/Samsung 65 Inch TV Quantum Processor 4K QLED/21AgxnsDtJL._AC_.jpg",
+        "image3": "Televisions/Samsung 65 Inch TV Quantum Processor 4K QLED/41rh-7Oth4L._AC_.jpg",
+        "image4": "Televisions/Samsung 65 Inch TV Quantum Processor 4K QLED/61o5GogHGBL._AC_SL1000_.jpg",
+        "image5": "Televisions/Samsung 65 Inch TV Quantum Processor 4K QLED/61uW6+2LmrL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "DisplayTechnology": "QLED",
+                "Resolution": "4K",
+                "RefreshRate": "120 Hz",
+                "size": "65 Inches",
+                "ItemDimensions": "28.9D x 144.7W x 90.6H centimeters"
+            },
+        "about":
+            {
+                "about1": "SAMSUNG QA65Q80CAUXEG TV 65 Screen Size, 3,840 x 2,160 Resolution, 100Hz Refresh Rate",
+                "about2": "Quantum Processor 4K Picture Engine with Quantum HDR 12x, Direct Full Array Contrast, 100% Colour Volume with Quantum Dot. Having Wide Viewing Angle with Supreme UHD Dimming, Real Depth Enhancer, Motion Xcelerator Turbo+, LED Clear Motion and Brightness/Color Detection",
+                "about3": "Speaker Type: 2.2.2CH with 60W Sound Output (RMS), Dolby Atmos, Q-Symphony and Adaptive Sound+",
+                "about4": "Smart Services: Tizen Operating System, Web Browser, SmartThings App Support and Media Home",
+                "about5": "Smart Features: TV to Mobile - Mirroring, Mobile to TV - Mirroring, DLNA, TV Initiate Mirroring, Google Duo Video Communication, upto 2 videos Multi-View , 360 Video Player, Camera Support, Sound Mirroring and Microsoft 365 Web Service"
+            }
+    },
+    {
+        "id": 28,
+        "type": "television",
+        "title": "SHARP 8K Smart LED TV 70 Inch With Android System, Wi-Fi Connection, 4 HDMI and 3 USB Inputs - 8T-C70DW1X",
+        "price": 85600,
+        "image": "Televisions/SHARP 8K Smart LED/1.jpg",
+        "image2": "Televisions/SHARP 8K Smart LED/31-SY-OAORL._AC_SL1000_.jpg",
+        "image3": "Televisions/SHARP 8K Smart LED/31hJw081bPL._AC_SL1000_.jpg",
+        "image4": "Televisions/SHARP 8K Smart LED/31LOrFR8YaL._AC_SL1000_.jpg",
+        "image5": "Televisions/SHARP 8K Smart LED/31wXo-uLCRL._AC_SL1000_.jpg",
+        "image6": "Televisions/SHARP 8K Smart LED/31XlNolWIYL._AC_SL1000_.jpg",
+        "image7": "Televisions/SHARP 8K Smart LED/51TnIUcyLYL._AC_SL1000_.jpg",
+        "image8": "Televisions/SHARP 8K Smart LED/51YnsRFacmL._AC_SL1000_.jpg",
+        "image9": "Televisions/SHARP 8K Smart LED/51ZWkrB9F0L._AC_SL1000_.jpg",
+        "image10": "Televisions/SHARP 8K Smart LED/61cuCtyzkrL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "Sharp",
+                "DisplayTechnology": "LED",
+                "Resolution": "8K",
+                "RefreshRate": "60 Hz",
+                "size": "70 Inch"
+            },
+        "about":
+            {
+                "about1": "SHARP 8K Smart LED TV 70 Inch With Android 10.0",
+                "about2": "Connect With Wired and Wireless Internet",
+                "about3": "Netflix Application"
+            }
+    },
+    {
+        "id": 29,
+        "type": "television",
+        "title": "SHARP 32 Inch Frameless LED FHD Smart With Built-In Receiver Google TV - 2T-C32FG6EX",
+        "price": 7799,
+        "image": "Televisions/SHARP 32 Inch Frameless LED/1.jpg",
+        "image2": "Televisions/SHARP 32 Inch Frameless LED/51dksXoZ1aL._AC_SL1500_.jpg",
+        "image3": "Televisions/SHARP 32 Inch Frameless LED/51gYFIYv-hL._AC_SL1500_.jpg",
+        "image4": "Televisions/SHARP 32 Inch Frameless LED/51z+f0W0ciL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Sharp",
+                "DisplayTechnology": "LED",
+                "Resolution": "720i",
+                "RefreshRate": "60 Hz",
+                "size": "32 Inches",
+                "ItemDimensions": "83.8D x 72W x 43H centimeters"
+            },
+        "about":
+            {
+                "about1": "SHARP Smart Frameless LED TV 32 Inch HD Google TV",
+                "about2": "With Built-In Receiver",
+                "about3": "Connect With Wired and Wireless Internet"
+            }
+    },
+    {
+        "id": 30,
+        "type": "television",
+        "title": "Toshiba 4K Smart Frameless D-LED Ultra HD 65 Inch TV with Built-In Receiver, Black - 65U5965EA",
+        "price": 24530,
+        "image": "Televisions/Toshiba 4K Smart Frameless/1.jpg",
+        "image2": "Televisions/Toshiba 4K Smart Frameless/41iKVWU5UYL._AC_SL1067_.jpg",
+        "image3": "Televisions/Toshiba 4K Smart Frameless/51vrKE0MU7L._AC_.jpg",
+        "image4": "Televisions/Toshiba 4K Smart Frameless/511oRH84MeL._AC_.jpg",
+        "details":
+            {
+                "brandName": "TOSHIBA",
+                "DisplayTechnology": "LED",
+                "Resolution": "4K",
+                "RefreshRate": "6.0 Hz",
+                "size": "65 Inches",
+                "ItemDimensions": "7.6D x 146W x 84.7H centimeters"
+            },
+        "about":
+            {
+                "about1": "Unique and fashionable design",
+                "about2": "Made of high quality material",
+                "about3": "Suitable weight",
+                "about4": "Compatible with multiple devices"
+            }
+    },
+    {
+        "id": 31,
+        "type": "watches",
+        "title": "Apple Watch SE (2nd Gen) GPS 40mm Starlight Aluminium Case Starling Sport Loop",
+        "price": 16800,
+        "image": "watches/Apple Watch SE (2nd Gen)/1.jpg",
+        "image2": "watches/Apple Watch SE (2nd Gen)/61AF-dWJIlL._AC_SL1500_.jpg",
+        "image3": "watches/Apple Watch SE (2nd Gen)/61Cm6f-1j7L._AC_SL1500_.jpg",
+        "image4": "watches/Apple Watch SE (2nd Gen)/61XG5cA575L._AC_SL1500_.jpg",
+        "image5": "watches/Apple Watch SE (2nd Gen)/71qSAf8yFCL._AC_SL1500_.jpg",
+        "image6": "watches/Apple Watch SE (2nd Gen)/615LW2NIvPL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "color": "Starlight",
+                "ItemShape": "Round",
+                "GPS": "Built-in GPS"
+            },
+        "about":
+            {
+                "about1": "WHY APPLE WATCH SE—All the essentials to help you be motivated and active, keep connected, track your health, and stay safe. The Smart Stack and redesigned apps in watchOS 10 help you see more information at a glance. With features like Crash Detection2 and enhanced workout metrics, Apple Watch SE is a better value than ever.",
+                "about2": "CARBON NEUTRAL—Pair any aluminum Apple Watch SE with a Starlight, Midnight, or Winter Blue Sport Loop for a carbon-neutral combination.",
+                "about3": "HEALTH AND SAFETY FEATURES—Get help when you need it with Fall Detection, Crash Detection, and Emergency SOS. Get deep insights into your health, including notifications if you have an irregular heart rhythm or an unusually high or low heart rate.",
+                "about4": "SIMPLY COMPATIBLE—It works seamlessly with your Apple devices and services. Unlock your Mac automatically. Find your devices easily. Pay and send money with Apple Pay. Apple Watch SE requires iPhone XS or later with iOS 17 or later.",
+                "about5": "SWIMPROOF AND STYLISH—Water resistance rating of 50 meters. Three finishes. And a color-matched back case made with a production process that reduces its carbon emissions.",
+                "about6": "EASILY CUSTOMIZABLE—With watch bands in a range of styles, materials, and colors and fully customizable watch faces, you can change your watch to fit your mood or the moment.",
+                "about7": "A POWERFUL FITNESS PARTNER—The Workout app gives you a range of ways to train plus advanced metrics for more insights about your workout performance. And Apple Watch comes with three months of Apple Fitness+ free."
+            }
+    },
+    {
+        "id": 32,
+        "type": "watches",
+        "title": "Apple Watch Series 9 [GPS 45mm] Smartwatch with Midnight Aluminum Case with Midnight Sport Band, Unisex",
+        "price": 21950,
+        "image": "watches/Apple Watch Series 9/1.jpg",
+        "image2": "watches/Apple Watch Series 9/61ERiv4wf4L._AC_SX679_.jpg",
+        "image3": "watches/Apple Watch Series 9/71A2-tFHNiL._AC_SX679_.jpg",
+        "image4": "watches/Apple Watch Series 9/71lpJk+FHrL._AC_SX679_.jpg",
+        "image5": "watches/Apple Watch Series 9/81C8zw3D4YL._AC_SX679_.jpg",
+        "image6": "watches/Apple Watch Series 9/617VIylcMVL._AC_SX679_.jpg",
+        "details":
+            {
+                "brandName": "Apple"
+            },
+        "about":
+            {
+                "about1": "Brand Name Apple Model Name Apple Watch Series 9 [GPS 45mm] Sm Style Modern Color blue Screen Size 45 Millimeters Special Features Activity Tracker Item Shape Rectangular Target Audience unisex_adults Age Range Description Adult Compatible Devices Smartphone"
+            }
+    },
+    {
+        "id": 33,
+        "type": "watches",
+        "title": "Apple Watch Series 10 GPS 42 mm Smartwatch with Jet Black Aluminium Case with Black Sport Band - M/L. Fitness Tracker, ECG App, Always-On Retina Display, Water Resistant",
+        "price": 22799,
+        "image": "watches/Apple Watch Series 10/1.jpg",
+        "image2": "watches/Apple Watch Series 10/61rkz+AWaTL._AC_SL1500_.jpg",
+        "image3": "watches/Apple Watch Series 10/61tvesTKi6L._AC_SL1500_.jpg",
+        "image4": "watches/Apple Watch Series 10/71JSCnFr+VL._AC_SL1500_.jpg",
+        "image5": "watches/Apple Watch Series 10/71m1b7tmOTL._AC_SL1500_.jpg",
+        "image6": "watches/Apple Watch Series 10/7199sUQv0iL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "MemoryStorage": "64 GB",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "Ios"
+            },
+        "about":
+            {
+                "about1": "WHY APPLE WATCH SERIES 10—Bigger display with up to 30 percent more screen area. A thinner, lighter, and more comfortable design. Advanced health and fitness features provide invaluable insights. Safety features connect you to help when you need it. Faster charging gives you 80 percent battery in about 30 minutes.",
+                "about2": "ADVANCED HEALTH INSIGHTS—Take an ECG anytime. Get notifications if you have high or low heart rate or an irregular heart rhythm. Understand your menstrual cycle and get retrospective ovulation estimates. See overnight health metrics like heart rate, respiratory rate, and more with the Vitals app. And see how much time you spent in REM, Core, or Deep sleep with sleep stages.",
+                "about3": "STAY CONNECTED — Send a text, take a call, listen to music and podcasts, and get notifications on the go. Apple Watch Series 10 (GPS) works with your iPhone or Wi-Fi to keep you connected.",
+                "about4": "A POWERFUL FITNESS PARTNER—Measure all the ways you move with Activity Rings, which are customizable to match your lifestyle. Get advanced metrics for a range of workouts with the Workout app. Track the intensity of your workouts with training load. Use depth and water temperature sensors for your aquatic adventures. And Apple Watch comes with three months of Apple Fitness+ free.",
+                "about5": "INNOVATIVE SAFETY FEATURES—Fall Detection and Crash Detection can connect you with emergency services in the event of a hard fall or a severe car crash. Emergency SOS lets you call for help with the press of a button. Check In automatically notifies a loved one when you've arrived at a your destination."
+            }
+    },
+    {
+        "id": 34,
+        "type": "watches",
+        "title": "Apple Watch Ultra 2 GPS + Cellular 49mm Smartwatch, Sports Watch with Natural Rugged Titanium Case with Navy Ocean Band. Fitness Tracker, Precision GPS, Extra-Long Battery Life",
+        "price": 43950,
+        "image": "watches/Apple Watch Ultra 2 GPS/1.jpg",
+        "image2": "watches/Apple Watch Ultra 2 GPS/61wO-uyc+RL._AC_SL1500_.jpg",
+        "image3": "watches/Apple Watch Ultra 2 GPS/81ABKR+ms9L._AC_SL1500_.jpg",
+        "image4": "watches/Apple Watch Ultra 2 GPS/91vzoBlA9+L._AC_SL1500_.jpg",
+        "image5": "watches/Apple Watch Ultra 2 GPS/710hME5vAsL._AC_SL1500_.jpg",
+        "image6": "watches/Apple Watch Ultra 2 GPS/718r0-UuziL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Apple",
+                "MemoryStorage": "64 GB",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "Ios"
+            },
+        "about":
+            {
+                "about1": "THE FREEDOM OF CELLULAR — With a mobile service plan you can call and text without your iPhone nearby. Stream your favourite music and podcasts. Get directions with Maps.",
+                "about2": "FOR DIVERS — Full dive computer capabilities with the Oceanic app. Senses depth to 40 metres along with water temperature. Certified EN13319.",
+                "about3": "LEGAL DISCLAIMERS — This is a summary of the main product features.",
+                "about4": "THE FREEDOM OF CELLULAR—With a cellular service plan, you can call and text without your iPhone nearby. Stream your favorite music and podcasts. Get directions with Maps.",
+                "about5": "FOR DIVERS—Full dive computer capabilities with the Oceanic app. Senses depth to 40 meters along with water temperature. Certified EN13319."
+            }
+    },
+    {
+        "id": 35,
+        "type": "watches",
+        "title": "HUAWEI WATCH GT 5 VILI-B19L 46MM BROWN COMPOSITE LEATHER STRAP",
+        "price": 10399,
+        "image": "watches/HUAWEI WATCH GT 5/1.jpg",
+        "image2": "watches/HUAWEI WATCH GT 5/61hgCBJIZRL._AC_SL1500_.jpg",
+        "image3": "watches/HUAWEI WATCH GT 5/61VAreO7o1L._AC_SL1500_.jpg",
+        "image4": "watches/HUAWEI WATCH GT 5/71f2cxFqlWL._AC_SL1500_.jpg",
+        "image5": "watches/HUAWEI WATCH GT 5/71lY5YBYlIL._AC_SL1500_.jpg",
+        "image6": "watches/HUAWEI WATCH GT 5/71MYM+EuD-L._AC_SL1500_.jpg",
+        "image7": "watches/HUAWEI WATCH GT 5/81bywAxmxNL._AC_SL1500_.jpg",
+        "image8": "watches/HUAWEI WATCH GT 5/81YuI5GWFnL._AC_SL1500_.jpg",
+        "image9": "watches/HUAWEI WATCH GT 5/81Yxu7yd8uL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "HUAWEI",
+                "MemoryStorage": "128 MB",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "HarmonyOS"
+            },
+        "about":
+            {
+                "about1": "HUAWEI WATCH Vili&Jana (the watch) is water-resistant to a depth of 50 meters, and can last 14 days (Vili)/7 days (Jana)",
+                "about2": "It features a variety of fitness, health, and lifestyle features, and therefore is suitable for both daily use and professional workouts"
+            }
+    },
+    {
+        "id": 36,
+        "type": "watches",
+        "title": "HUAWEI Watch GT4 46mm Smartwatch, Upto 2-Weeks Battery Life, Dual-Band Five-System GNSS Positioning, Pulse Wave Arrhythmia Analysis, 24/7 Health Monitoring, Compatible with Android & iOS, Green",
+        "price": 8960,
+        "image": "watches/HUAWEI Watch GT4/1.jpg",
+        "image2": "watches/HUAWEI Watch GT4/51BZWiW8vLL._AC_SL1000_.jpg",
+        "image3": "watches/HUAWEI Watch GT4/51fzO1WyLIL._AC_SL1000_.jpg",
+        "image4": "watches/HUAWEI Watch GT4/51wDUFvrzkL._AC_SL1000_.jpg",
+        "image5": "watches/HUAWEI Watch GT4/51XCyt6nuBL._AC_SL1000_.jpg",
+        "image6": "watches/HUAWEI Watch GT4/61b2I7Sr2uL._AC_SL1000_.jpg",
+        "image7": "watches/HUAWEI Watch GT4/61g8syfzXnL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "HUAWEI",
+                "MemoryStorage": "32000 MB",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "LiteOS"
+            },
+        "about":
+            {
+                "about1": "【Up to 2 Weeks Battery Life】 You can enjoy 8-day battery life for typical usage and up to 14-day battery life for given special conditions 【Dual-Band Five-System GNSS Positioning】A smart satellite antenna array boosts the accuracy of HUAWEI WATCH GT 4 46 mm's GNSS signals by 30%, to keep you on track in avenues, parks or residential units. And with a smart fusion positioning algorithm, the watch gets increasingly accurate the more times you run."
+            }
+    },
+    {
+        "id": 37,
+        "type": "watches",
+        "title": "Samsung Galaxy Watch6 Classic Smartwatch, Silver, 47mm, Bluetooth Sleep Coaching, Fitness Tracker, 1 Year Warranty/Local Version",
+        "price": 11900,
+        "image": "watches/Samsung Galaxy Watch6/1.jpg",
+        "image2": "watches/Samsung Galaxy Watch6/61OoyymzV4L._AC_SL1500_.jpg",
+        "image3": "watches/Samsung Galaxy Watch6/61VCHLeoXNL._AC_SL1500_.jpg",
+        "image4": "watches/Samsung Galaxy Watch6/61ZF24Cb0RL._AC_SL1500_.jpg",
+        "image5": "watches/Samsung Galaxy Watch6/71DuvYFDQgL._AC_SL1500_.jpg",
+        "image6": "watches/Samsung Galaxy Watch6/71n1NLzPxeL._AC_SL1500_.jpg",
+        "image7": "watches/Samsung Galaxy Watch6/71Uw7eiBJ2L._AC_SL1500_.jpg",
+        "image8": "watches/Samsung Galaxy Watch6/71xbB7HlvdL._AC_SL1500_.jpg",
+        "image9": "watches/Samsung Galaxy Watch6/71xOMwLM5OL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "HUAWEI",
+                "MemoryStorage": "16000 MB",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "watchOS"
+            },
+        "about":
+            {
+                "about1": "Elevate Your Lifestyle with Advanced Features: Crafted with premium materials and packed with cutting-edge technology, our smartwatch redefines the boundaries of wearable performance.",
+                "about2": "Unparalleled Health and Wellness Tracking: Monitor your vital signs, including ECG and blood pressure, for a comprehensive understanding of your well-being. Stay on top of your fitness goals with seamless activity tracking.",
+                "about3": "Seamless Connectivity and Hands-Free Convenience: Enjoy seamless integration with your smartphone, allowing you to stay connected and in control with just a tap on your wrist.",
+                "about4": "Timeless Design, Exceptional Durability: Featuring a sleek, contemporary design and built to military-grade standards, our smartwatch is both stylish and resilient, ready to accompany you on any adventure.",
+                "about5": "Personalize Your Experience: Customize your watch face, choose from a wide selection of compatible bands, and tailor the user interface to suit your unique preferences for a truly personalized wearable experience."
+            }
+    },
+    {
+        "id": 38,
+        "type": "watches",
+        "title": "SAMSUNG Galaxy Watch7 Smartwatch, Green, 44mm, Bluetooth, Sleep Coaching, Fitness Tracker, 1 Year Warranty / Local Version",
+        "price": 13250,
+        "image": "watches/SAMSUNG Galaxy Watch7/1.jpg",
+        "image2": "watches/SAMSUNG Galaxy Watch7/41EYFpPCuDL._AC_.jpg",
+        "image3": "watches/SAMSUNG Galaxy Watch7/91L4pf6KjCL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "SAMSUNG",
+                "ItemShape": "Round",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "Tizen"
+            },
+        "about":
+            {
+                "about1": "Galaxy Al-powered health insights: Understand your body better and start your day smarter with Energy Score. Check your sleep, heart rate and daily activities with Energy Score and plan your routine each day. Didn't rest so well? Maybe skip the gym and relax at home to get back on track.",
+                "about2": "Personalized Sleep Coaching: A better bedtime routine starts with sleep tracking. From a daily sleep score, to sleep heart rate, to personalized Sleep Coaching and more, understand your nightly patterns accurately and get tips that help you enhance your sleep.",
+                "about3": "Advanced fitness tracking: Take your fitness game to the next level with Galaxy Watch7. Craft your perfect Workout Routine with warm-ups, cooldowns and breaks in between, or compete against your past records to stay motivated. Easily track your exercise even in the water wich Water Lock mode.",
+                "about4": "Next-level processing power: The new 3nm processor supercharges your daily routine. Quickly switch from checking the weather to tracking your workouts in no time. Plus, it optimizes battery life for long-lasting power, ensuring the Galaxy Watch7 keeps up with you."
+            }
+    },
+    {
+        "id": 39,
+        "type": "watches",
+        "title": "Xiaomi Smart Watch S1 Active Ocean Blue 1.43 Inch Touch Screen AMOLED Display, Bluetooth Phone call, NFC Support, GPS",
+        "price": 5799,
+        "image": "watches/Xiaomi Smart Watch S1/1.jpg",
+        "image2": "watches/Xiaomi Smart Watch S1/51LcroDlTZL._AC_SL1200_.jpg",
+        "image3": "watches/Xiaomi Smart Watch S1/51mKi5Xb3XL._AC_SL1200_.jpg",
+        "image4": "watches/Xiaomi Smart Watch S1/51u8m9VLROL._AC_SL1200_.jpg",
+        "image5": "watches/Xiaomi Smart Watch S1/51WXp-URQFL._AC_SL1200_.jpg",
+        "image6": "watches/Xiaomi Smart Watch S1/61hKUvQNaIL._AC_SL1200_.jpg",
+        "image7": "watches/Xiaomi Smart Watch S1/61TzUOYNm9L._AC_SL1200_.jpg",
+        "details":
+            {
+                "brandName": "Xiaomi",
+                "ItemShape": "Round",
+                "GPS": "GPS Via Smartphone",
+                "OperatingSystem": "Android Wear"
+            },
+        "about":
+            {
+                "about1": "Sapphire glass 1.43 AMOLED HD display",
+                "about2": "117 fitness modes",
+                "about3": "12 days battery life",
+                "about4": "Dual-band GPS",
+                "about5": "Bluetooth phone call and NFC Supported"
+            }
+    },
+    {
+        "id": 40,
+        "type": "watches",
+        "title": "Xiaomi Watch S1 (Silver)",
+        "price": 7499,
+        "image": "watches/Xiaomi Watch S1/1.jpg",
+        "image2": "watches/Xiaomi Watch S1/51gqBST4DKL._AC_SL1000_.jpg",
+        "image3": "watches/Xiaomi Watch S1/51Une3FXP-L._AC_SL1024_.jpg",
+        "image4": "watches/Xiaomi Watch S1/51vcUF0GWLL._AC_SL1000_.jpg",
+        "image5": "watches/Xiaomi Watch S1/61Wnxf8ZBkL._AC_SL1000_.jpg",
+        "details":
+            {
+                "brandName": "Xiaomi",
+                "ItemShape": "Round",
+                "GPS": "Built-in GPS",
+                "OperatingSystem": "Wear OS"
+            },
+        "about":
+            {
+                "about1": "Sapphire crystal stainless steel case leather strap",
+                "about2": "1.43'' AMOLED screen",
+                "about3": "117 sports modes"
+            }
+    },
+    {
+        "id": 41,
+        "type": "appliance",
+        "title": "Bosch - Series 4 Bagless vacuum cleaner ProPower Black - BGS21WPOW",
+        "price": 7450,
+        "image": "appliances/Bosch - Series 4/1.jpg",
+        "image2": "appliances/Bosch - Series 4/61TnvXS0PEL._AC_SL1500_.jpg",
+        "image3": "appliances/Bosch - Series 4/71buScZ3CQL._AC_SL1500_.jpg",
+        "image4": "appliances/Bosch - Series 4/71rkrbTEf6L._AC_SL1500_.jpg",
+        "image5": "appliances/Bosch - Series 4/71TmatwvwjL._AC_SL1500_.jpg",
+        "image6": "appliances/Bosch - Series 4/71WmAXOfblL._AC_SL1500_.jpg",
+        "details":
+            {
+                "brandName": "Bosch",
+                "Voltage": "220 Volts",
+                "ItemWeight": "8 Kilograms",
+                "Wattage": "2000 watts"
+            },
+        "about":
+            {
+                "about1": "HEPA hygienic filter",
+                "about2": "Adjustable wheeled",
+                "about3": "electronic-rotary",
+                "about4": "Gardy plug without earthing",
+                "about5": "Turbo nozzle"
+            }
+    },
+    {
+        "id": 42,
+        "type": "appliance",
+        "title": "Bosch BGL38GOLD Vacuum Cleaner 2200W - Serie 4_Black_",
+        "price": 6599,
+        "image": "appliances/Bosch BGL38GOLD/1.jpg",
+        "image2": "appliances/Bosch BGL38GOLD/41QLNd7PczL._AC_.jpg",
+        "image3": "appliances/Bosch BGL38GOLD/5174jzwsibL._AC_.jpg",
+        "image4": "appliances/Bosch BGL38GOLD/51276vybibL._AC_.jpg",
+        "details": 
+            {
+                "brandName": "Bosch",
+                "Voltage": "240 Volts",
+                "ItemWeight": "6.74 Kilograms",
+                "Wattage": "2200 watts"
+            },
+        "about": 
+            {
+                "about1": "Brand: Bosch",
+                "about2": "Filter type: HEPA"
+            }
+    },
+    {
+        "id": 43,
+        "type": "appliance",
+        "title": "Samsung Microwave oven 32 L, Tact & Dial, LED Display, Black (local warranty)",
+        "price": 8799,
+        "image": "appliances/Samsung Microwave oven 32 L/1.jpg",
+        "image2": "appliances/Samsung Microwave oven 32 L/31AWvnlr5gL._AC_.jpg",
+        "image3": "appliances/Samsung Microwave oven 32 L/31KqfwqcXhL._AC_.jpg",
+        "details": 
+            {
+                "brandName": "SAMSUNG",
+                "itemDimensions": "42D x 52W x 30H centimeters",
+                "color": "Black",
+                "Wattage": "1400"
+            },
+        "about": 
+            {
+                "about1": "Oven Capacity: 32L",
+                "about2": "Door and Cabinet Color: Black",
+                "about3": "Cavity Material: Ceramic Enamel"
+            }
+    },
+    {
+        "id": 44,
+        "type": "appliance",
+        "title": "Samsung Refrigerator RT30A3300SA/MR 305 Liters - 11 Cubic Feet - Metal Graphite- (local warranty)",
+        "price": 27747,
+        "image": "appliances/Samsung Refrigerator RT30A3300SAMR 305 Liters/1.jpg",
+        "image2": "appliances/Samsung Refrigerator RT30A3300SAMR 305 Liters/21dhJZ1Z8UL._AC_.jpg",
+        "image3": "appliances/Samsung Refrigerator RT30A3300SAMR 305 Liters/31Ook3AQL8L._AC_.jpg",
+        "image4": "appliances/Samsung Refrigerator RT30A3300SAMR 305 Liters/41wAh7XJ+YL._AC_.jpg",
+        "image5": "appliances/Samsung Refrigerator RT30A3300SAMR 305 Liters/71nGROnx3qL._AC_SL1500_.jpg",
+        "details": 
+            {
+                "brandName": "SAMSUNG",
+                "itemDimensions": "70.5D x 59.5W x 172H centimeters",
+                "color": "Metal Graphite",
+                "Voltage": "220 Volts"
+            },
+        "about": 
+            {
+                "about1": "Brand: Samsung",
+                "about2": "Refrigerator",
+                "about3": "Model Number: RT30A3300SA/MR",
+                "about4": "Color: Metal Graphite",
+                "about5": "305 L"
+            }
+    },
+    {
+        "id": 45,
+        "type": "appliance",
+        "title": "Samsung WW70T4020CX1AS Digital Inverter Front Loading Washing Machine - 7Kg - Inox- (local warranty)",
+        "price": 14999,
+        "image": "appliances/Samsung WW70T4020CX1AS/1.jpg",
+        "image2": "appliances/Samsung WW70T4020CX1AS/61LYO0n4VPL._AC_SL1500_.jpg",
+        "image3": "appliances/Samsung WW70T4020CX1AS/715LkUScRQL._AC_SL1459_.jpg",
+        "details": 
+            {
+                "brandName": "SAMSUNG",
+                "color": "Silver"
+            },
+        "about": 
+            {
+                "about1": "Hygiene Steam: It releases steam from the bottom drum and removes the inherent dirt and 99.9% of bacteria and allergens.",
+                "about2": "Bubble Soak: Helps remove a variety of stubborn stains by soaking clothes in bubbles, adding up to 30 minutes to 4 cycles (Cotton, Synthetics, Denim, Baby Care).",
+                "about3": "Eco Bubble: Works on lathering the detergent with air and water before starting the cycle, resulting in cleaning bubbles that penetrate fabrics faster than concentrated detergent, saving energy.",
+                "about4": "Quick Wash: You can freely select cycles between 15 to 60 minutes for a perfect quick wash, designed for a small amount of laundry.",
+                "about5": "Free Delivery & Installation, Hygiene Steam, Durable performance, Digital Inverter Motor"
+            }
+    },
+    {
+        "id": 46,
+        "type": "appliance",
+        "title": "Sharp AH-XP12UHE Air Conditioner Inverter Split 1.5Hp Cool With Plasma Cluster - Silver",
+        "price": 30710,
+        "image": "appliances/Sharp AH-XP12UHE/1.jpg",
+        "image2": "appliances/Sharp AH-XP12UHE/51lQBrbbMuL._AC_SL1500_.jpg",
+        "details": 
+            {
+                "brandName": "Sharp",
+                "itemDimensions": "24D x 92W x 92H centimeters",
+                "color": "Silver",
+                "Voltage": "240"
+            },
+        "about": 
+            {
+                "about1": "SHARP Air Conditioner 1.5 HP Cool, Inverter, Digital",
+                "about2": "Cooling Capacity: 12624 (13820-3650) BTU/H",
+                "about3": "Air Conditioner Color: Silver"
+            }
+    },
+    {
+        "id": 47,
+        "type": "appliance",
+        "title": "SHARP Split Air Conditioner 1.5 HP Cool Powerful Jet White AH-A12ZSE",
+        "price": 24371,
+        "image": "appliances/SHARP Split Air Conditioner/1.jpg",
+        "details": 
+            {
+                "brandName": "Sharp",
+                "itemDimensions": "24D x 92W x 29.2H centimeters",
+                "color": "White",
+                "Voltage": "240"
+            },
+        "about": 
+            {
+                "about1": "SHARP Air Conditioner 1.5 HP Cool, Standard",
+                "about2": "Cooling Capacity: 12000 (BTU/H)",
+                "about3": "Air Conditioner Color: White"
+            }
+    },
+    {
+        "id": 48,
+        "type": "appliance",
+        "title": "Tefal Easy Fry Digital Interface 4.2 L Oil-Less Fryer, Silver, Metal/Stainless Steel, EY401D27 International Warranty - 220V Supply Voltage and 50Hz",
+        "price": 4799,
+        "image": "appliances/Tefal easy fry digital interface 4.2/1.jpg",
+        "image2": "appliances/Tefal easy fry digital interface 4.2/31uY5uM+XHL._AC_.jpg",
+        "image3": "appliances/Tefal easy fry digital interface 4.2/41jJkQ2nkOL._AC_.jpg",
+        "image4": "appliances/Tefal easy fry digital interface 4.2/41pI8UdzACL._AC_.jpg",
+        "image5": "appliances/Tefal easy fry digital interface 4.2/51ZoKY+4J7L._AC_.jpg",
+        "image6": "appliances/Tefal easy fry digital interface 4.2/71mKE+Pj+tL._AC_SL1500_.jpg",
+        "image7": "appliances/Tefal easy fry digital interface 4.2/71N8OmHBRUL._AC_SL1500_.jpg",
+        "image8": "appliances/Tefal easy fry digital interface 4.2/314hJHKripL._AC_.jpg",
+        "details": 
+            {
+                "brandName": "Tefal",
+                "itemDimensions": "33D x 33W x 42H centimeters",
+                "color": "Silver",
+                "Wattage": "1500 watts"
+            },
+        "about": 
+            {
+                "about1": "XL Capacity: 4.2 L Capacity",
+                "about2": "Up to 6 Servings",
+                "about3": "Grill",
+                "about4": "Fry & Roast with the Easy Fry",
+                "about5": "You can not only fry but also grill"
+            }
+    },
+    {
+        "id": 49,
+        "type": "appliance",
+        "title": "Tefal Easy Fry Max, Hot Air Fryer, 5L Capacity, 10 Preset Programs, Digital, Black - EY2458EG",
+        "price": 5395,
+        "image": "appliances/Tefal Easy Fry Max/1.jpg",
+        "image2": "appliances/Tefal Easy Fry Max/71C5bMrU2CL._AC_SL1500_.jpg",
+        "image3": "appliances/Tefal Easy Fry Max/71z3yNICiOL._AC_SL1500_.jpg",
+        "image4": "appliances/Tefal Easy Fry Max/81MjBQ311VL._AC_SL1500_.jpg",
+        "image5": "appliances/Tefal Easy Fry Max/81R98tF6-8L._AC_SL1500_.jpg",
+        "image6": "appliances/Tefal Easy Fry Max/816o0KpKGmL._AC_SL1500_.jpg",
+        "details": 
+            {
+                "brandName": "Tefal",
+                "color": "Black",
+                "Wattage": "1500 watts"
+            },
+        "about": 
+            {
+                "about1": "Smart Interface: Intuitive touch screen digital control panel.",
+                "about2": "Versatility: 10 preset cooking programs (Fries, Chicken, Steak, Fish, Dessert, Pizza, Nuggets, Vegetables, Shrimp and Bacon) to cook delicious dishes every time.",
+                "about3": "Large Capacity: 5L enough to serve the whole family, up to 6 people.",
+                "about4": "Maximum Convenience: With desired temperature control adjustable up to 220°C.",
+                "about5": "Set & Go with no worries: Thanks to equipped 60min timer with auto-off ringer bell system.",
+                "about6": "Healthy: Extra Crisp technology creates the perfect balance of temperature and hot air flow for crispy and golden fried food with minimal or no fat.",
+                "about7": "Easy Cleaning: Thanks to the dishwasher-safe removable parts and non-stick coating.",
+                "about8": "Dishwasher Safe: The non-stick, dishwasher-safe basket ensures effortless cleanup and a stress-free cooking experience."
+            }
+    },
+    {
+        "id": 50,
+        "type": "appliance",
+        "title": "Tefal Ultra Fry Digital, 4.2 Liters, 8 Programs, Charcoal Grey - EY111BEG",
+        "price": 3878,
+        "image": "appliances/Tefal Ultra Fry Digital/1.jpg",
+        "image2": "appliances/Tefal Ultra Fry Digital/41H0laQrvNL._AC_SL1142_.jpg",
+        "image3": "appliances/Tefal Ultra Fry Digital/51dtO4GdnHL._AC_SL1266_.jpg",
+        "image4": "appliances/Tefal Ultra Fry Digital/61kBG9qfYFL._AC_SL1398_.jpg",
+        "image5": "appliances/Tefal Ultra Fry Digital/61Vq482kgCL._AC_SL1404_.jpg",
+        "image6": "appliances/Tefal Ultra Fry Digital/514l5ixJXIL._AC_SL1312_.jpg",
+        "details": 
+            {
+                "brandName": "Tefal",
+                "color": "Charcoal Grey",
+                "Wattage": "1600 watts"
+            },
+        "about": 
+            {
+                "about1": "Low-fat fryer for cooking with little to no oil.",
+                "about2": "Family meals that can serve up to 6 people thanks to 4.2L XL capacity in a compact design.",
+                "about3": "Performance with 1600W power and hot air technology - no preheating.",
+                "about4": "8 cooking options for your daily meals, including fries, cake, pizza, toast, chicken, meat, shrimp, and fish.",
+                "about5": "Maximum convenience with desired temperature control adjustable from 80 to 200°C."
+            }
+    },
+    {
+        "id": 51,
+        "type": "perfumes",
+        "title": "Acqua Di Gio Profumo By Arman'i 125Ml For Men",
+        "price": 800,
+        "image": "perfumes/Acqua Di Gio/1.jpg",
+        "image2": "perfumes/Acqua Di Gio/61H7wzCI5jL._AC_.jpg",
+        "details": 
+            {
+                "brandName": "Generic",
+                "modelName": "Acqua Di Gio Profumo",
+                "numberOfItems": "8",
+                "unitCount": "125 millilitre"
+            },
+        "about": 
+            {
+                "about1": "Top notes are Sea Notes and Bergamot",
+                "about2": "Middle notes are Rosemary, Sage and Geranium",
+                "about3": "Base notes are Incense and Patchouli.",
+                "about4": "125Ml",
+                "about5": "For Men"
+            }
+    },
+    {
+        "id": 52,
+        "type": "perfumes",
+        "title": "Avon Perceive for Him Eau de Toilette Spray 100 ml",
+        "price": 628,
+        "image": "perfumes/Avon Perceive/1.jpg",
+        "image2": "perfumes/Avon Perceive/51ofzKe+wML._AC_SL1042_.jpg",
+        "image3": "perfumes/Avon Perceive/71ocvV6sslL._AC_SL1145_.jpg",
+        "details": {
+            "brandName": "Avon",
+            "modelName": "Perceive",
+            "numberOfItems": "1",
+            "unitCount": "100 millilitre"
+        },
+        "about": {
+            "about1": "Perceive for Men Composition: citrus wood. Fresh & Clean - Dynamic fragrances with cool, watery and refreshing notes.",
+            "about2": "Top notes are refreshing mandarin and slightly sharper grapefruit",
+            "about3": "Middle notes are a fascinating orange blossom and herbal sage aroma",
+            "about4": "Base notes are classic musk and cedar wood",
+            "about5": "Avon Perceive for Men Eau de Toilette 100 ml"
+        }
+    },
+    {
+        "id": 53,
+        "type": "perfumes",
+        "title": "Bu 1 Billion for Men, Eau de Toilette - 90 ml",
+        "price": 170,
+        "image": "perfumes/Bu 1 billion for men/1.jpg",
+        "image2": "perfumes/Bu 1 billion for men/31FfAM-yhaL._AC_.jpg",
+        "image3": "perfumes/Bu 1 billion for men/51aiXTiNwFL._AC_SL1074_.jpg",
+        "image4": "perfumes/Bu 1 billion for men/51krJCjsnZL._AC_SL1082_.jpg",
+        "details": {
+            "brandName": "bü",
+            "modelName": "perfume",
+            "numberOfItems": "1",
+            "unitCount": "90 millilitre"
+        },
+        "about": {
+            "about1": "Brand: BU",
+            "about2": "Perfume Name: 1 Billion",
+            "about3": "Fragrance Type: Eau De Toilette",
+            "about4": "Targeted Group: Men",
+            "about5": "Size: 90 ml"
+        }
+    },
+    {
+        "id": 54,
+        "type": "perfumes",
+        "title": "bü Bu Blue Angel for Women, Eau de Toilette - 100 ml",
+        "price": 117,
+        "image": "perfumes/bü Bu blue angel for women/1.jpg",
+        "image2": "perfumes/bü Bu blue angel for women/51ewx2ybExL._AC_SL1050_.jpg",
+        "image3": "perfumes/bü Bu blue angel for women/51h32SEsJZL._AC_SL1050_.jpg",
+        "image4": "perfumes/bü Bu blue angel for women/3127VzxUbfL._AC_.jpg",
+        "details": {
+            "brandName": "bü",
+            "modelName": "er",
+            "numberOfItems": "1",
+            "unitCount": "100 millilitre"
+        },
+        "about": {
+            "about1": "display attribute: beauty display on website",
+            "about2": "batteries required: FALSE",
+            "about3": "Item Category: fragrance",
+            "about4": "gl_product_group_type: gl_beauty",
+            "about5": "ASIN: B08WJL5FR1"
+        }
+    },
+    {
+        "id": 55,
+        "type": "perfumes",
+        "title": "Oriflame Glacier Rock Eau de Toilette",
+        "price": 912,
+        "image": "perfumes/Oriflame Glacier/1.jpg",
+        "image2": "perfumes/Oriflame Glacier/51UFLUeg31L._AC_SL1500_.jpg",
+        "image3": "perfumes/Oriflame Glacier/61r1GYkncML._AC_SL1000_.jpg",
+        "details": {
+            "brandName": "ORIFLAME",
+            "modelName": "Eau de Toilette",
+            "numberOfItems": "1",
+            "unitCount": "100 millilitre"
+        },
+        "about": {
+            "about1": "Brand: Oriflame",
+            "about2": "Fragrance Type: Eau de Toilette",
+            "about3": "Size: 100ml",
+            "about4": "Targeted Group: Men",
+            "about5": "Expirable: false"
+        }
+    },
+    {
+        "id": 56,
+        "type": "perfumes",
+        "title": "Pino Silvestre Italian Citrus (M) Edt 125Ml",
+        "price": 1518,
+        "image": "perfumes/Pino Silvestre Italian/1.jpg",
+        "image2": "perfumes/Pino Silvestre Italian/71rCnNGEmfL._AC_SL1500_.jpg",
+        "image3": "perfumes/Pino Silvestre Italian/81AXy+cIFrL._AC_SL1500_.jpg",
+        "image4": "perfumes/Pino Silvestre Italian/81cbcCWg5SL._AC_SL1500_.jpg",
+        "image5": "perfumes/Pino Silvestre Italian/81R+s5GrtbL._AC_SL1500_.jpg",
+        "image6": "perfumes/Pino Silvestre Italian/81VsPlIVQuL._AC_SL1500_.jpg",
+        "image7": "perfumes/Pino Silvestre Italian/91N6UZDaZmL._AC_SL1500_.jpg",
+        "image8": "perfumes/Pino Silvestre Italian/8125phqYsfL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Pino Silvestre",
+            "modelName": "Pino Silvestre Italian Citrus Eau De Toilette 125ml",
+            "numberOfItems": "1",
+            "unitCount": "1 count",
+            "itemWeight": "1 Gram"
+        },
+        "about": {
+            "about1": "Pino Silvestre Italian Citrus Eau De Toilette 125ml"
+        }
+    },
+    {
+        "id": 57,
+        "type": "perfumes",
+        "title": "Puig Antonio Agua Brava For Men 100ml - Eau de Cologne",
+        "price": 974,
+        "image": "perfumes/Puig Antonio Agua/1.jpg",
+        "image2": "perfumes/Puig Antonio Agua/61iAFw3zC7S._AC_SL1000_.jpg",
+        "image3": "perfumes/Puig Antonio Agua/71OQdI8c0jL._AC_SL1500_.jpg",
+        "image4": "perfumes/Puig Antonio Agua/81l+T7W7DcL._AC_SL1500_.jpg",
+        "image5": "perfumes/Puig Antonio Agua/81UJyzHBxaL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Puig",
+            "modelName": "Agua Brava",
+            "numberOfItems": "1",
+            "unitCount": "3.4 Fluid Ounces",
+            "itemWeight": "100 Grams"
+        },
+        "about": {
+            "about1": "Antonio Puig Agua Brava For Men 100ml - Eau de Cologne",
+            "about2": "Brand: Antonio Puig",
+            "about3": "PERSONAL_FRAGRANCE"
+        }
+    },
+    {
+        "id": 58,
+        "type": "perfumes",
+        "title": "ROGER & GALLET Open for Men, Eau de Toilette, 100ml",
+        "price": 999,
+        "image": "perfumes/ROGER & GALLET/1.jpg",
+        "image2": "perfumes/ROGER & GALLET/41nCs3wK5bL._AC_.jpg",
+        "image3": "perfumes/ROGER & GALLET/61umjyXY7eL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "ROGER & GALLET",
+            "modelName": "er",
+            "numberOfItems": "1",
+            "unitCount": "100 millilitres",
+            "itemWeight": "3.4 Ounces"
+        },
+        "about": {
+            "about1": "This fragrance combines earthy woods with bright citrus",
+            "about2": "For casual use",
+            "about3": "Brand: Roger & Gallet",
+            "about4": "gl_product_group_type: gl_beauty",
+            "about5": "ASIN: B000P20S9Q"
+        }
+    },
+    {
+        "id": 59,
+        "type": "perfumes",
+        "title": "Roofa Cool Kids EDT UK Boy 100ml",
+        "price": 338,
+        "image": "perfumes/Roofa Cool Kids/1.jpg",
+        "image2": "perfumes/Roofa Cool Kids/71MGaK7ZUsS._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Roofa",
+            "modelName": "cologne",
+            "numberOfItems": "1",
+            "unitCount": "100 millilitres"
+        },
+        "about": {
+            "about1": "Suitable from 4 Years to 14 Years.",
+            "about2": "It leaves a long lasting fragrance.",
+            "about3": "Made in Spain.",
+            "about4": "gl_product_group_type: gl_beauty",
+            "about5": "ASIN: B07JPGLPMP"
+        }
+    },
+    {
+        "id": 60,
+        "type": "perfumes",
+        "title": "Yves Saint Laurent Libre intense eau de parfum 90 ml",
+        "price": 5485,
+        "image": "perfumes/Yves Saint Laurent/1.jpg",
+        "image2": "perfumes/Yves Saint Laurent/41pT74IcdlL._AC_.jpg",
+        "image3": "perfumes/Yves Saint Laurent/61iMd8ipTlL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Yves Saint Laurent",
+            "modelName": "intense eau",
+            "numberOfItems": "1",
+            "unitCount": "90 millilitres"
+        },
+        "about": {
+            "about1": "Top notes are bergamot",
+            "about2": "Middle note is orchid",
+            "about3": "Base note is vetiver",
+            "about4": "Brand: Yves Saint Laurent"
+        }
+    },
+    {
+        "id": 61,
+        "type": "games",
+        "title": "arVin Kids Headphones, Childrens Headphones with LED Glowing and Microphone, Pluggable, Use TF Card, Foldable Wireless Bluetooth Stereo Pink Headset, Wired Headset",
+        "price": 240,
+        "image": "games/arVin Kids Headphones/1.jpg",
+        "image2": "games/arVin Kids Headphones/61MAen1hGML._AC_SL1500_.jpg",
+        "image3": "games/arVin Kids Headphones/61nV7DlGILL._AC_SL1500_.jpg",
+        "image4": "games/arVin Kids Headphones/61UHZA5Nx1L._AC_SL1500_.jpg",
+        "image5": "games/arVin Kids Headphones/71AbDck9ghL._AC_SL1500_.jpg",
+        "image6": "games/arVin Kids Headphones/71IrCoksFdL._AC_SL1500_.jpg",
+        "image7": "games/arVin Kids Headphones/71o+atBHDzL._AC_SL1500_.jpg",
+        "image8": "games/arVin Kids Headphones/71td3GynOJL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "arVin",
+            "color": "pink",
+            "Sensitivity": "95 dB",
+            "modelName": "arVin Kids Headphones, Childrens H"
+        },
+        "about": {
+            "about1": "Powerful Function This kids headphones for girls has both Bluetooth 5.0 function and 3.5mm plug-in function, giving you more choices and worrying about running out of power",
+            "about2": "Wide Application This kids wireless headphone can be used at home, school or travel. Compatible for Kindle Fire, PC, TV, Laptop, PS4, PS5, Xbox, Switch etc(Note: After plugging in the headphone cable, the indicator light on the headphone is off and the cat ear LED light is off. At this time, all buttons on the headset are out of function, including cutting songs, adjusting the volume, etc",
+            "about3": "【Applicable TF Card & Microphone】When the TF card is inserted, these pink wireless headphones can be used without adjustment, no need to connect to electronic devices. Simply download the data you want to listen to the TF card. Both wired and wireless retain microphone function",
+            "about4": "FOLDABLE & RETRACTABLE The cat ear headphones adopt a foldable design, which saves space when storing, and is convenient to carry even when traveling. The length can be adjusted to suit your situation",
+            "about5": "Cute cat ears and colorful flashing light design: the cute design of these bluetooth headphones for kids can not only easily conquer children's hearts, but also be fun when they listen to music, watch videos or movies"
+        }
+    },
+    {
+        "id": 62,
+        "type": "games",
+        "title": "Bengoo V-4 Gaming Headset for Xbox One, PS4, PC, Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light Bass Surround Soft Memory Earmuffs for PS2 Mac",
+        "price": 599,
+        "image": "games/Bengoo V-4 Gaming Headset/1.jpg",
+        "image2": "games/Bengoo V-4 Gaming Headset/61+yVp0J-QL._AC_SL1000_.jpg",
+        "image3": "games/Bengoo V-4 Gaming Headset/61GNJqfFcSL._AC_SL1000_.jpg",
+        "image4": "games/Bengoo V-4 Gaming Headset/61jCdjhNd9L._AC_SL1000_.jpg",
+        "image5": "games/Bengoo V-4 Gaming Headset/61JWnGj6O1L._AC_SL1000_.jpg",
+        "image6": "games/Bengoo V-4 Gaming Headset/61KRANF1lEL._AC_SL1000_.jpg",
+        "image7": "games/Bengoo V-4 Gaming Headset/61qSEbTxRZL._AC_SL1000_.jpg",
+        "image8": "games/Bengoo V-4 Gaming Headset/71Ur0JVG56L._AC_SL1000_.jpg",
+        "details": {
+            "brandName": "Bengoo",
+            "color": "Blue",
+            "modelName": "BENGOO V-4"
+        },
+        "about": {
+            "about1": "【WIDE APPLICATION】 Support PlayStation 4, Xbox One S, PC, Nintendo 3DS, Laptop, PSP, Tablet, iMac, Computer, Mobile Phone. Please note that you need an extra Microsoft Adapter (Not Included) when connecting with an old version Xbox One controller",
+            "about2": "【SURROUNDING STEREO SUBWOOFER】Clear sound operating strong brass, splendid ambient noise isolation and high precision 40mm magnetic neodymium driver, acoustic positioning precision enhance the sensitivity of the speaker unit, bringing you vivid sound field, sound clarity, shock feeling sound. Perfect for various games like Halo 5 Guardians, Metal Gear Solid, Call of Duty, Star Wars Battlefront, Overwatch, World of Warcraft Legion, etc.",
+            "about3": "【NOISE ISOLATING MICROPHONE】Headset integrated omni-directional microphone can transmits high quality communication with its premium noise-cancelling feature, can pick up sounds with great sensitivity and remove the noise, which enables you clearly deliver or receive messages while you are in a game. Long flexible mic design very convenient to adjust angle of the microphone.",
+            "about4": "【GREAT HUMANIZED DESIGN】Superior comfortable and good air permeability protein over-ear pads, multi-points headbeam, accord with human body engineering specification can reduce hearing impairment and heat sweat. Skin-friendly leather material for a longer period of wearing. Glaring LED lights designed on the earcups to highlight game atmosphere.",
+            "about5": "【EFFORTLESSLY VOLUME CONTROL】High tensile strength, anti-winding braided USB cable with rotary volume controller and key microphone mute effectively prevents the 49-inches long cable from twining and allows you to control the volume easily and mute the mic as effortless volume control one key mute."
+        }
+    },
+    {
+        "id": 63,
+        "type": "games",
+        "title": "EA SPORTS FC 25 - PlayStation 5",
+        "price": 3400,
+        "image": "games/EA SPORTS FC 25/1.jpg",
+        "image2": "games/EA SPORTS FC 25/71CGjuteX-L._AC_SL1500_.jpg",
+        "image3": "games/EA SPORTS FC 25/71Es7w1a6LL._AC_SL1500_.jpg",
+        "image4": "games/EA SPORTS FC 25/71tQMWS3P4L._AC_SL1500_.jpg",
+        "image5": "games/EA SPORTS FC 25/719Di4NzN1L._AC_SL1500_.jpg",
+        "image6": "games/EA SPORTS FC 25/719KkoLJIcL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "EA SPORTS",
+            "modelName": "FC 25"
+        },
+        "about": {
+            "about1": "Team up with 5v5 Rush, a new way to play with friends in Football Ultimate Team, Clubs, and Kick-Off with small-sided gameplay.",
+            "about2": "Get your team playing like the world's best with FC IQ. An overhaul of tactical foundations across the game delivers greater strategic control and more realistic collective movement.",
+            "about3": "For the first time, play an authentic Women's Career experience, taking control of a club or player from the top five women's leagues.",
+            "about4": "Play, win, and progress with friends in more ways than ever before with Clubs. Connect with club mates in your all-new personalised Clubhouse and see your friends' avatars when they enter the mode.",
+            "about5": "Enjoy more ways to build your dream squad in Football Ultimate Team with the best past and present players from across The World's Game."
+        }
+    },
+    {
+        "id": 64,
+        "type": "games",
+        "title": "GameSir G7 SE Wired Controller for Xbox Series X|S, Xbox One & Windows 10/11, Plug and Play Gaming Gamepad with Hall Effect Joysticks/Hall Trigger, 3.5mm Audio Jack",
+        "price": 3750,
+        "image": "games/GameSir G7 SE Wired Controller for Xbox/1.jpg",
+        "image2": "games/GameSir G7 SE Wired Controller for Xbox/61dDO5GdWVL._AC_SL1000_.jpg",
+        "image3": "games/GameSir G7 SE Wired Controller for Xbox/61eI-V+Il3L._AC_SL1000_.jpg",
+        "image4": "games/GameSir G7 SE Wired Controller for Xbox/61EUvSdsVOL._AC_SL1000_.jpg",
+        "image5": "games/GameSir G7 SE Wired Controller for Xbox/61NqsgJgLjL._AC_SL1000_.jpg",
+        "image6": "games/GameSir G7 SE Wired Controller for Xbox/6128qtKCu2L._AC_SL1000_.jpg",
+        "details": {
+            "brandName": "GameSir",
+            "modelName": "G7 SE"
+        },
+        "about": {
+            "about1": "Versatile Compatibility: Supports Xbox Series X/S, Xbox One X/S consoles, and PC Win10 and above (including the Steam game platform).",
+            "about2": "Precise Control: Features Hall Joysticks and Hall trigger for comfortable feel, long life, and enhanced gaming accuracy.",
+            "about3": "Plug-and-Play Convenience: USB wired connection (detachable) for easy setup and instant gaming without the need for additional drivers.",
+            "about4": "Customizable Experience: Includes 2 custom back keys, allowing users to eliminate false triggers and enhance their gaming experience.",
+            "about5": "Immersive Gameplay: Offers pulse type vibration trigger motor and asymmetric vibration grip motor for immersive tactile feedback.",
+            "about6": "Enhanced Audio and Comfort: Equipped with a 3.5mm audio interface for seamless connection with gaming headsets and an ergonomic grip with ultra-fine laser engraved texture for comfortable and non-slip gaming sessions."
+        }
+    },
+    {
+        "id": 65,
+        "type": "games",
+        "title": "PlayStation Sony DualSense Wireless Controller for PS5 White",
+        "price": 3899,
+        "image": "games/PlayStation Sony/1.jpg",
+        "image2": "games/PlayStation Sony/41Q0DBgZBmL._AC_.jpg",
+        "image3": "games/PlayStation Sony/51AsiSPn9RL._AC_SL1500_.jpg",
+        "image4": "games/PlayStation Sony/51YsYMVqcmL._AC_SL1500_.jpg",
+        "image5": "games/PlayStation Sony/61GMhIJ+bTL._AC_SL1500_.jpg",
+        "image6": "games/PlayStation Sony/61RRyoReIzL._AC_SL1500_.jpg",
+        "image7": "games/PlayStation Sony/61vi2YDaOQL._AC_SL1464_.jpg",
+        "image8": "games/PlayStation Sony/511tCbBvAeL._AC_.jpg",
+        "details": {
+            "brandName": "PlayStation",
+            "color": "Black",
+            "modelName": "Sony DualSense wireless controller"
+        },
+        "about": {
+            "about1": "Playstation 5 DualSense Wireless Controller for PS5 Console - Bulk Packaging - Gaming Accessories",
+            "about2": "Adaptive triggers - Experience varying levels of force and tension as you interact with your in-game gear and environments. From pulling back an increasingly tight bowstring to hitting the brakes on a speeding car, feel physically connected to your on-screen actions.",
+            "about3": "Built-in microphone and headset jack - Chat with friends online using the built-in microphone or by connecting a headset to the 3.5mm jack. Easily switch voice capture on and off at a moment’s notice with the dedicated mute button. Internet and account for PlayStation Network required."
+        }
+    },
+    {
+        "id": 66,
+        "type": "games",
+        "title": "Solutions 2 GO HITMAN World of Assassination (PS5)",
+        "price": 2391,
+        "image": "games/Solutions 2 GO HITMAN/1.jpg",
+        "image2": "games/Solutions 2 GO HITMAN/71UHNldDsKL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Solutions 2 GO",
+            "modelName": "HITMAN World of Assassination"
+        },
+        "about": {
+            "about1": "HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3 including the main campaign, contracts fashion, escalations, elusive target arcades and featured live content."
+        }
+    },
+    {
+        "id": 67,
+        "type": "beauty",
+        "title": "Body Cravings Peppermint Foot Scrub | 250 ml | Exfoliate Refresh | Dead skin remover",
+        "price": 285,
+        "image": "beauty/Body Cravings Peppermint/1.jpg",
+        "image2": "beauty/Body Cravings Peppermint/71lmos9djeL._AC_SL1500_.jpg",
+        "image3": "beauty/Body Cravings Peppermint/71RQDcIct6L._AC_SL1500_.jpg",
+        "image4": "beauty/Body Cravings Peppermint/71TPJJvp1tL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "BODY CRAVINGS",
+            "itemForm": "Scrub",
+            "itemVolume": "250 Milliliters",
+            "numberOfItems": "1"
+        },
+        "about": {
+            "about1": "Exfoliating Sugar Crystals: Gently remove dead skin cells, revealing smoother, healthier-looking feet.",
+            "about2": "Nourishing Blend: Enriched with shea butter and coconut oil to deeply hydrate and soften dry, cracked skin.",
+            "about3": "Invigorating Peppermint: The refreshing scent of peppermint awakens your senses and leaves your feet feeling cool and energized.",
+            "about4": "Glycerin for Moisture: Locks in hydration for long-lasting softness and comfort.",
+            "about5": "Essential Oil Blend: Provides a delightful and therapeutic aroma.",
+            "about6": "Proudly Made in Egypt"
+        }
+    },
+    {
+        "id": 68,
+        "type": "beauty",
+        "title": "Joviality Diamond Repair - Natural Hardening Nail Gel Serum 4ml",
+        "price": 297,
+        "image": "beauty/Joviality Diamond Repair/1.jpg",
+        "image2": "beauty/Joviality Diamond Repair/61cvEXVidPL._AC_SL1080_.jpg",
+        "image3": "beauty/Joviality Diamond Repair/61Lp3Xx3GPL._AC_SL1500_.jpg",
+        "image4": "beauty/Joviality Diamond Repair/61VTL8VwF5L._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Joviality",
+            "itemForm": "Gel",
+            "itemVolume": "4 Milliliters",
+            "numberOfItems": "1"
+        },
+        "about": {
+            "about1": "Hardens weak, fragile nails",
+            "about2": "Repairs damaged, flaky nails",
+            "about3": "Enriched with Calcium & Magnesium to restore thickness to brittle nails",
+            "about4": "Hydrates nails & cuticles with hyaluronic acid for an instant glow",
+            "about5": "Fills & Smoothens nail ridges",
+            "about6": "Light, fast-absorbing gel with zero stickiness"
+        }
+    },
+    {
+        "id": 69,
+        "type": "beauty",
+        "title": "Joviality Tropical Glow Shimmering Dry Oil-Bronze",
+        "price": 365,
+        "image": "beauty/Joviality Tropical Glow/1.jpg",
+        "image2": "beauty/Joviality Tropical Glow/61s0VnhVmvL._AC_SL1080_.jpg",
+        "image3": "beauty/Joviality Tropical Glow/71fsFms0OlL._AC_SL1080_.jpg",
+        "image4": "beauty/Joviality Tropical Glow/71GszsjvGPL._AC_SL1080_.jpg",
+        "image5": "beauty/Joviality Tropical Glow/312W6TPLz3L._AC_.jpg",
+        "details": {
+            "color": "Bronze",
+            "brandName": "Joviality",
+            "itemForm": "Oil",
+            "itemVolume": "50 Milliliters",
+            "numberOfItems": "1"
+        },
+        "about": {
+            "about1": "Luxurious Shimmer and Glow: Add a touch of glamour to any evening look with our Tropical Glow Shimmering Dry Oil, which provides a subtle shimmer that enhances your skin's natural beauty.",
+            "about2": "Multi-Use Formula: Versatile enough to be used as a bronzer or highlighter, this dry oil simplifies your beauty routine, freeing up space in your makeup bag.",
+            "about3": "Nourishing Natural Oils: A rich blend of Rosehip, Argan, Macadamia, and Jojoba oils nourishes and moisturizes the skin, leaving it soft and illuminated.",
+            "about4": "Fast-Absorbing, Non-Greasy: Enjoy a luxurious feel with a formula that absorbs quickly, illuminates effectively, and doesn’t leave a greasy residue."
+        }
+    },
+    {
+        "id": 70,
+        "type": "beauty",
+        "title": "Joviality Velvet Touch - Body Dry Oil",
+        "price": 365,
+        "image": "beauty/Joviality Velvet Touch/1.jpg",
+        "image2": "beauty/Joviality Velvet Touch/61A-Uxb2yuL._AC_SL1080_.jpg",
+        "image3": "beauty/Joviality Velvet Touch/61rUm9bhNsL._AC_SL1080_.jpg",
+        "image4": "beauty/Joviality Velvet Touch/613Frdqb-oL._AC_SL1080_.jpg",
+        "details": {
+            "brandName": "Joviality",
+            "itemForm": "Oil",
+            "itemVolume": "70 Milliliters",
+            "numberOfItems": "1"
+        },
+        "about": {
+            "about1": "Body Dry Oil",
+            "about2": "Enriched with super moisturizing fast absorbing natural oils",
+            "about3": "Delays appearance of stretch marks",
+            "about4": "Gives instant radiant glow",
+            "about5": "Fast absorbing moisturization with dry touch",
+            "about6": "Deeply nourishes & rejuvenates the skin"
+        }
+    },
+    {
+        "id": 71,
+        "type": "beauty",
+        "title": "Maybelline New York Fit Me Matte + Poreless - 115 Ivory",
+        "price": 480,
+        "image": "beauty/Maybelline New York/1.jpg",
+        "image2": "beauty/Maybelline New York/71WXfIawYhL._AC_SL1500_.jpg",
+        "image3": "beauty/Maybelline New York/71Y5KuNY-0L._AC_SL1500_.jpg",
+        "image4": "beauty/Maybelline New York/81g6zJV9axL._AC_SL1500_.jpg",
+        "image5": "beauty/Maybelline New York/81LLAbe5qML._AC_SL1500_.jpg",
+        "image6": "beauty/Maybelline New York/512H9elqNOS._AC_SL1500_.jpg",
+        "image7": "beauty/Maybelline New York/716Y-uBpAlL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "MAYBELLINE",
+            "itemForm": "Cream",
+            "color": "115 Ivory",
+            "numberOfItems": "1"
+        },
+        "about": {
+            "about1": "Up to 16 hour matte coverage",
+            "about2": "Oil free, doesn't cause acne",
+            "about3": "All-day poreless lightweight foundation ideal for oily skin",
+            "about4": "Features exclusive matte formula clay micropowders that control shine and blur pores",
+            "about5": "Mattifies skin for a natural and seamless finish",
+            "about6": "Dermatologist tested, allergy tested, non-comedogenic"
+        }
+    },
+    {
+        "id": 72,
+        "type": "beauty",
+        "title": "Maybelline New York Fit Me Concealer - Café 30",
+        "price": 427,
+        "image": "beauty/Maybelline New York Fit/1.jpg",
+        "image2": "beauty/Maybelline New York Fit/51fAUaUB36L._AC_SL1300_.jpg",
+        "image3": "beauty/Maybelline New York Fit/51G-mKWdxOL._AC_SL1300_.jpg",
+        "image4": "beauty/Maybelline New York Fit/61CE1+kVjgL._AC_SL1300_.jpg",
+        "image5": "beauty/Maybelline New York Fit/61VgNcJ3fnL._AC_SL1300_.jpg",
+        "image6": "beauty/Maybelline New York Fit/71laLjX0MvL._AC_SL1300_.jpg",
+        "details": {
+            "brandName": "MAYBELLINE",
+            "itemForm": "Liquid",
+            "color": "Cafe 30",
+            "numberOfItems": "1"
+        },
+        "about": {
+            "about1": "Flawless, natural coverage",
+            "about2": "Oil-free",
+            "about3": "Dermatologist tested. Ophthalmologist tested",
+            "about4": "Fragrance-free",
+            "about5": "7 Shades Available"
+        }
+    },
+    {
+        "id": 73,
+        "type": "headsets",
+        "title": "Anker soundcore life u2i bluetooth neckband with 22 h playtime, 10 mm drivers,clear calls , usb-c fast charging, foldable & lightweight build, ipx5 waterproof - black-18 months local warranty",
+        "price": 990,
+        "image": "headsets/Anker soundcore life u2i/1.jpg",
+        "image2": "headsets/Anker soundcore life u2i/41pg+CvwjoL._AC_SL1280_.jpg",
+        "image3": "headsets/Anker soundcore life u2i/51dI2B6VQdL._AC_SL1280_.jpg",
+        "image4": "headsets/Anker soundcore life u2i/51Sr9S-WzKL._AC_SL1280_.jpg",
+        "details": {
+            "brandName": "soundcore",
+            "sensitivity": "93 dB",
+            "color": "Black",
+            "modelName": "U2I"
+        },
+        "about": {
+            "about1": "High-Quality Sound: 10 mm drivers (20% larger than ordinary earphones) have a bio-cellulose diaphragm to produce high-detail treble with superior clarity. Switch on BassUp mode for up to 70% more bass.",
+            "about2": "Clear Calls with cVc 8.0 Noise Reduction Technology: Your voice is picked up and enhanced while background noise is effectively suppressed to ensure you're heard in exceptional clarity even if you're in a noisy environment."
+        }
+    },
+    {
+        "id": 74,
+        "type": "headsets",
+        "title": "Apple AirPods 4 ANC Wireless Earbuds, Bluetooth Headphones, Active Noise Cancellation, Adaptive Audio, Transparency Mode, Personalized Spatial Audio, USB-C Charging Case, Wireless Charging, H2 Chip",
+        "price": 9899,
+        "image": "headsets/Apple AirPods 4 ANC Wireless Earbuds/1.jpg",
+        "image2": "headsets/Apple AirPods 4 ANC Wireless Earbuds/61+N-zoAceL._AC_SL1500_.jpg",
+        "image3": "headsets/Apple AirPods 4 ANC Wireless Earbuds/61k6sJaXIQL._AC_SL1500_.jpg",
+        "image4": "headsets/Apple AirPods 4 ANC Wireless Earbuds/61k9kCMbADL._AC_SL1500_.jpg",
+        "image5": "headsets/Apple AirPods 4 ANC Wireless Earbuds/61ZzuI1PrSL._AC_SL1500_.jpg",
+        "image6": "headsets/Apple AirPods 4 ANC Wireless Earbuds/71v0y156DOL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Apple",
+            "color": "White",
+            "modelName": "Apple AirPods 4 ANC"
+        },
+        "about": {
+            "about1": "Soft, breathable, and lightweight, the Sport Loop features a hook-and-loop fastener for quick and easy adjustment. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape. On the reverse side, the attachment loops are securely anchored for superior durability.",
+            "about2": "REBUILT FOR COMFORT—AirPods 4 have been redesigned for exceptional all-day comfort and greater stability. With a refined contour, shorter stem, and quick-press controls for music or calls.",
+            "about3": "ACTIVE NOISE CANCELLATION—AirPods 4 with Active Noise Cancellation help reduce outside noise before it reaches your ears, so you can immerse yourself in what you’re listening to.",
+            "about4": "HEAR THE WORLD AROUND YOU—The powerful H2 chip comes to AirPods 4. Adaptive Audio seamlessly blends Active Noise Cancellation and Transparency mode—which lets you comfortably hear and interact with the world around you exactly as it sounds—to provide the best listening experience in any environment. And when you’re speaking with someone nearby, Conversation Awareness automatically lowers the volume of what’s playing.",
+            "about5": "IMPROVED SOUND AND CALL QUALITY—Voice Isolation improves the quality of calls in loud conditions. Using advanced computational audio, it reduces background noise while isolating and clarifying the sound of your voice for whoever you’re speaking to."
+        }
+    },
+    {
+        "id": 75,
+        "type": "headsets",
+        "title": "HUAWEI FreeBuds 5i Wireless Earbuds - Noise Cancelling Earphones with Long Lasting Battery Life - Bluetooth and Water Resistant in-Ear Headphones with Hi-Res Sound Certified - Blue",
+        "price": 2878,
+        "image": "headsets/HUAWEI FreeBuds 5i Wireless Earbuds/1.jpg",
+        "details": {
+            "brandName": "HUAWEI",
+            "color": "Isle Blue",
+            "sensitivity": "96 dB",
+            "modelName": "FreeBuds 5i"
+        },
+        "about": {
+            "about1": "Hi-Res Audio to Tickle your Ears: HUAWEI FreeBuds 5i is Hi-Res Audio Wireless certificated, featuring a wider frequency response, full-link high-resolution sound for HD audio sources, and multiple EQs to match with a wide range of different styles, for a tailor-made listening experience.",
+            "about2": "Powerful Battery Life, Fast Charging: The earbuds can deliver up to 28 hours of music playback when used with the charging case, and play 4 hours of audio on a mere 15-minute charge, serving as your anytime listening companion.",
+            "about3": "Compact and Comfortable: The earbuds are shorter and 11% lighter than the previous version. With 3 sizes of soft skin-friendly silicone ear tips as well as the lightweight charging case, you can enjoy customized wearing comfort.",
+            "about4": "All-Purpose Interconnections: HUAWEI FreeBuds 5i can simultaneously connect to two devices at once. The audio connection center in the AI Life app makes it easy to manage devices connected to the earbuds and switch listening devices at a moment's notice.",
+            "about5": "IP54 Water Resistance: IP54 rating means that you can enjoy music with your HUAWEI FreeBuds 5i in daily life."
+        }
+    },
+    {
+        "id": 76,
+        "type": "headsets",
+        "title": "Joyroom JR-T03S 2nd Generation Jerry Version Normal Quality TWS Bluetooth Headset Support Wireless c | 12 Months Warranty",
+        "price": 569,
+        "image": "headsets/Joyroom JR-T03S/1.jpg",
+        "image2": "headsets/Joyroom JR-T03S/31TlPcCAblL._AC_.jpg",
+        "image3": "headsets/Joyroom JR-T03S/41xfMFAAjYL._AC_SL1000_.jpg",
+        "image4": "headsets/Joyroom JR-T03S/51Zc2Xe-pYL._AC_.jpg",
+        "image5": "headsets/Joyroom JR-T03S/315pTkTJ76L._AC_SL1000_.jpg",
+        "image6": "headsets/Joyroom JR-T03S/413kuXcn9+L._AC_SL1000_.jpg",
+        "image7": "headsets/Joyroom JR-T03S/515c10wZBcL._AC_.jpg",
+        "details": {
+            "brandName": "Joyroom",
+            "color": "White",
+            "sensitivity": "103 dB",
+            "modelName": "Jerry"
+        },
+        "about": {
+            "about1": "Light Sense: Consistency, stability, and recognition rate are lower, and recognition response time is slower.",
+            "about2": "Charging Protection: The Jerry version is less secure.",
+            "about3": "Flash Memory: Network up to 4Mb memory.",
+            "about4": "Charging Case Battery: 400mA (with lithium protection plate).",
+            "about5": "In-Ear Monitoring: Body sense."
+        }
+    },
+    {
+        "id": 77,
+        "type": "headsets",
+        "title": "Sony WF-C700N Truly Wireless Noise Canceling in-Ear Bluetooth Earbud Headphones with Mic and IPX4 Water Resistance, Lavender",
+        "price": 5999,
+        "image": "headsets/Sony WF-C700N Truly/1.jpg",
+        "image2": "headsets/Sony WF-C700N Truly/31g4AqeqHoL._AC_.jpg",
+        "image3": "headsets/Sony WF-C700N Truly/41m4CsnDliL._AC_.jpg",
+        "image4": "headsets/Sony WF-C700N Truly/71FmRgGkI3L._AC_SL1500_.jpg",
+        "image5": "headsets/Sony WF-C700N Truly/71nnBn5oJzL._AC_SL1500_.jpg",
+        "image6": "headsets/Sony WF-C700N Truly/71yMLq42V8L._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Sony",
+            "color": "Lavender",
+            "modelName": "WF-C700N/VZ"
+        },
+        "about": {
+            "about1": "Truly Wireless Headphones"
+        }
+    },
+    {
+        "id": 78,
+        "type": "headsets",
+        "title": "Soundcore A3991H11 by Anker Life P2i True Wireless Earbuds, AI-Enhanced Calls, 10mm Drivers, 2 EQ Modes, 28h Playtime with Fast Charging, Bluetooth 5.2, Lightweight and Secure Fit, Button Control",
+        "price": 1050,
+        "image": "headsets/Soundcore a3991h11/1.jpg",
+        "image2": "headsets/Soundcore a3991h11/61hIEGFh0pL._AC_SL1500_.jpg",
+        "image3": "headsets/Soundcore a3991h11/61r3jrdXOgL._AC_SL1500_.jpg",
+        "image4": "headsets/Soundcore a3991h11/61zzvZWx6iL._AC_SL1500_.jpg",
+        "image5": "headsets/Soundcore a3991h11/6162o+s+e0L._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Soundcore",
+            "color": "Black",
+            "sensitivity": "93 dB",
+            "modelName": "Life P2i"
+        },
+        "about": {
+            "about1": "Brand Name: Soundcore",
+            "about2": "Type: Wireless",
+            "about3": "Connectivity: Bluetooth 5.2",
+            "about4": "Playtime: Up to 8 Hours",
+            "about5": "Color: Black"
+        }
+    },
+    {
+        "id": 79,
+        "type": "headsets",
+        "title": "Soundcore by Anker P20i Earbuds, 10mm Driver, Bluetooth 5.3, Adjustable EQ, 30H Playtime, IPX5 Waterproof, 2 Microphones with AI, 18 Local Warranty, In-Ear Black Headphones Headset Wireless Earbuds",
+        "price": 980,
+        "image": "headsets/Soundcore by Anker P20i Earbuds/1.jpg",
+        "image2": "headsets/Soundcore by Anker P20i Earbuds/71nxr7v+7dL._AC_SL1500_.jpg",
+        "image3": "headsets/Soundcore by Anker P20i Earbuds/71XRj6+AOPL._AC_SL1500_.jpg",
+        "image4": "headsets/Soundcore by Anker P20i Earbuds/612Ru2IpEVL._AC_SL1500_.jpg",
+        "image5": "headsets/Soundcore by Anker P20i Earbuds/615p9yF7gzL._AC_SL1500_.jpg",
+        "details": {
+            "brandName": "Soundcore",
+            "color": "Black",
+            "sensitivity": "110 dB",
+            "modelName": "Anker P20i"
+        },
+        "about": {
+            "about1": "Powerful Bass: The Soundcore P20i wireless earbuds have oversized 10 mm drivers that deliver powerful sound with enhanced bass so you can lose yourself in your favorite songs.",
+            "about2": "Personalized EQs: With the Soundcore app, you can adjust the control of the in-ear Bluetooth headphones and choose from 22 EQ presets. With Find My Earbuds, a lost Bluetooth headphone can emit sounds to help you find them.",
+            "about3": "Long Playing Time, Fast Charging: The Soundcore P20i True Wireless in-ear Bluetooth headphones last for 10 hours on a single charge and 30 hours including a charging case. Once empty, you can continue to use it on a 10-minute charge for a whole 2 hours.",
+            "about4": "Compact Design, Ideal for On-the-Go: The Soundcore P20i True Wireless In-Ear Bluetooth headphones and the charging case are compact and lightweight and also equipped with a carrying strap. So they fit in any pocket or even on the keychain - so you don't need to worry about space.",
+            "about5": "Clear Calls with AI: The 2 built-in microphones of the P20i Bluetooth headphones with an AI algorithm ensure that you are always heard clearly.",
+            "about6": "Waterproof According to IPX5: The Soundcore P20i Bluetooth headphones are waterproof, so you can wear them even during sweaty training or outside in the rain thanks to splash protection."
+        }
+    },
+    {
+        "id": 80,
+        "type": "mensfashion",
+        "title": "adidas unisex-adult RESPONSE RUNNER U Shoes",
+        "price": 3299,
+        "image": "mensfashion/adidas unisex/1.jpg",
+        "image2": "mensfashion/adidas unisex/51sXvuB0vcL._AC_SY625_.jpg",
+        "image3": "mensfashion/adidas unisex/51ZJG6XCc3L._AC_SY625_.jpg",
+        "image4": "mensfashion/adidas unisex/61axrFbI0AL._AC_SY625_.jpg",
+        "image5": "mensfashion/adidas unisex/61FmlxX6hXL._AC_SY625_.jpg",
+        "details": {
+            "brandName": "adidas"
+        },
+        "about": {
+            "about1": "Response Runner Shoes",
+            "about2": "Everyday running shoes made in part with recycled materials.",
+            "about3": "Mesh upper",
+            "about4": "Whether you're ticking off some easy laps or pushing for a personal record, these adidas running shoes support you as you run toward your goals. The full-length EVA midsole offers cushy comfort while a grippy outsole keeps your pace steady. The versatile style transitions easily to your post-run activities. This product features at least 20% recycled materials. By reusing materials that have already been created, we help to reduce waste and our reliance on finite resources and reduce the footprint of the products we make."
+        }
+    },
+    {
+        "id": 81,
+        "type": "mensfashion",
+        "title": "Andora Mens Oxford Cotton Full Sleeves Shirt Western",
+        "price": 449,
+        "image": "mensfashion/Andora Mens Oxford/1.jpg",
+        "image2": "mensfashion/Andora Mens Oxford/51t89Vsa7cL._AC_SX569_.jpg",
+        "image3": "mensfashion/Andora Mens Oxford/61K5aV0CdaL._AC_SX569_.jpg",
+        "image4": "mensfashion/Andora Mens Oxford/61UDkcqc+CL._AC_SX569_.jpg",
+        "image5": "mensfashion/Andora Mens Oxford/618myyjIRLL._AC_SX569_.jpg",
+        "details": {
+            "brandName": "Andora"
+        },
+        "about": {
+            "about1": "Our Model Is wearing Size L",
+            "about2": "Cotton Material",
+            "about3": "Turn Down Collar",
+            "about4": "Long Sleeves",
+            "about5": "Regular Fit"
+        }
+    }
+]
+}
