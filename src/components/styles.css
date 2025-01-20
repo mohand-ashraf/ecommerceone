@@ -248,6 +248,12 @@
         width: 20px;
 }
 }
+@media (min-width: 320px) {
+    .details .swiper-button-next,
+    .details .swiper-button-prev{
+        width: 0px;
+}
+}
 .details .swiper-button-next:hover,
 .details .swiper-button-prev:hover{
     opacity: 0.9;

@@ -38,15 +38,15 @@ const Header = () => {
         <div className={`fixed top-0 right-0 left-0 z-20 ${theme === "dark" ? "dark" : ""}`}>
             <div className='bg-white dark:bg-bghead pt-5 pb-5'>
                 <div className='container mx-auto my-auto xs:px-3 sm:px-3 sml:px-3 md:px-3 mdl:px-3 lg:px-3 xl:px-3 lxl:px-0 lgl:px-3 justify-between flex items-center'>
-                    <Link to="/" className='xs:text-[24px] sm:text-3xl sml:text-3xl md:text-3xl mdl:text-3xl lg:text-3xl xl:text-3xl lxl:text-3xl lgl:text-3xl font-rubik font-semibold text-3xl text-[#004D40] dark:text-color1'>E-Commerce</Link>
+                    <Link to="/" className='xs:text-3xl sm:text-3xl sml:text-3xl md:text-3xl mdl:text-3xl lg:text-3xl xl:text-3xl lxl:text-3xl lgl:text-3xl font-rubik font-semibold text-3xl text-[#004D40] dark:text-color1'>E-Commerce</Link>
                     <div className='xs:hidden sm:hidden sml:hidden md:hidden mdl:hidden lg:flex xl:flex lxl:flex lgl:flex flex p-2 justify-center items-center bg-white dark:bg-bghead border-2 border-solid border-[#004D40] dark:border-color1 rounded-md'>
                         <input type='search' placeholder='What do you want ?' className='text-[#005E55] dark:text-color1 lg:pr-10 xl:pr-28 lxl:pr-28 lgl:pr-28 pr-28 bg-transparent outline-none' />
                         <FaSearch className='text-[#004D40] dark:text-color1' />
                     </div>
                     <div className='flex items-center gap-3'>
                         {userInfo ? (<>
-                            <p className='text-[#004D40] dark:text-color1 xs:mr-0 sm:mr-0 sml:mr-[10px] md:mr-[30px] mdl:mr-[30px] lg:mr-[30px] xl:mr-[30px] lxl:mr-[30px] lgl:mr-[30px] text-[20px] mr-[30px] font-medium font-Playwrite'>{userInfo.userName}</p>
-                            <FiLogOut className='cursor-pointer mr-[30px] xs:mr-[10px] sm:mr-[10px] sml:mr-[10px] md:mr-[30px] mdl:mr-[30px] lg:mr-[30px] xl:mr-[30px] lxl:mr-[30px] lgl:mr-[30px] text-2xl text-[#004D40] dark:text-color1' onClick={handleLogout} />
+                            <p className='text-[#004D40] xs:hidden sm:hidden sml:hidden md:flex mdl:flex lg:flex xl:flex lxl:flex lgl:flex dark:text-color1 xs:mr-0 sm:mr-0 sml:mr-[10px] md:mr-[30px] mdl:mr-[30px] lg:mr-[30px] xl:mr-[30px] lxl:mr-[30px] lgl:mr-[30px] text-[20px] mr-[30px] font-medium font-Playwrite'>{userInfo.userName}</p>
+                            <FiLogOut className='xs:hidden sm:hidden sml:hidden md:flex mdl:flex lg:flex xl:flex lxl:flex lgl:flex cursor-pointer mr-[30px] xs:mr-[10px] sm:mr-[10px] sml:mr-[10px] md:mr-[30px] mdl:mr-[30px] lg:mr-[30px] xl:mr-[30px] lxl:mr-[30px] lgl:mr-[30px] text-2xl text-[#004D40] dark:text-color1' onClick={handleLogout} />
                         </>) : (<>
                             <Link to="/signup" className='xs:hidden sm:hidden sml:hidden md:flex mdl:flex lg:flex xl:flex lxl:flex lgl:flex flex items-center text-[17px] hover:bg-[#E5EDEC] dark:hover:bg-[#030E17] dark:bg-[#030E17] bg-[#F2F6F5] text-[#20726A] dark:text-color1 border-2 border-solid border-[#005E55] dark:border-color1 rounded-md py-1 px-2 transition-all duration-300'>
                                 <IoPersonAdd className='mr-2 text-[#005E55] dark:text-color1' />
@@ -69,11 +69,11 @@ const Header = () => {
             </div>
             <div className='bg-white dark:bg-bghead pb-2 md:hidden mdl:hidden lg:hidden xl:hidden lxl:hidden lgl:hidden'>
                 <div className='container mx-auto my-auto xs:px-3 sm:px-3 sml:px-3 md:px-3 mdl:px-3 lg:px-3 xl:px-3 lxl:px-0 lgl:px-3 justify-between flex items-center'>
-                    <nav className='md:hidden mdl:hidden lg:hidden xl:hidden lxl:hidden lgl:hidden flex items-center justify-center gap-7'>
-                        <Link to="/cart" className='justify-center flex items-center font-medium gap-2 text-[20px] text-[#4B5563] dark:text-[#B8BABE] hover:text-[#004D40] dark:hover:text-color1 transition-all duration-300 '>
+                    <nav className='md:hidden mdl:hidden lg:hidden xl:hidden lxl:hidden lgl:hidden flex items-center justify-center gap-5'>
+                        <Link to="/cart" className='justify-center flex items-center font-medium text-[20px] text-[#4B5563] dark:text-[#B8BABE] hover:text-[#004D40] dark:hover:text-color1 transition-all duration-300 '>
                             <FaShoppingCart className='text-[23px]' />
                         </Link>
-                        <Link to="/wishlist" className='justify-center flex font-medium text-[#4B5563] dark:text-[#B8BABE] hover:text-[#004D40] dark:hover:text-color1 transition-all duration-300 items-center gap-2 text-[20px]'>
+                        <Link to="/wishlist" className='justify-center flex font-medium text-[#4B5563] dark:text-[#B8BABE] hover:text-[#004D40] dark:hover:text-color1 transition-all duration-300 items-center text-[20px]'>
                             <FaHeart className='text-[23px]' />
                         </Link>
                     </nav>
@@ -107,7 +107,7 @@ const Header = () => {
                         </Link>
                     </nav>
                     <div className='xs:flex sm:flex sml:flex md:hidden mdl:hidden lg:hidden xl:hidden lxl:hidden lgl:hidden flex p-[7px] justify-center items-center bg-white dark:bg-bghead border-2 border-solid border-[#004D40] dark:border-color1 rounded-md'>
-                        <input type='search' placeholder='What do you want ?' className='text-[#005E55] dark:text-color1 pr-20 bg-transparent outline-none' />
+                        <input type='search' placeholder='What do you want ?' className='text-[#005E55] dark:text-color1 xs:pr-10 sm:pr-20 sml:pr-20 md:pr-20 mdl:pr-20 lg:pr-20 xl:pr-20 lxl:pr-20 lgl:pr-20 pr-20 bg-transparent outline-none' />
                         <FaSearch className='text-[#004D40] dark:text-color1' />
                     </div>
                     <nav className='xs:hidden sm:hidden sml:hidden md:hidden mdl:hidden lg:flex xl:flex lxl:flex lgl:flex flex gap-6 items-center text-[#4B5563] dark:text-[#B8BABE] text-[17px] font-medium'>

@@ -108,6 +108,9 @@ const Sales = () => {
                             375: {
                                 slidesPerView: 1,
                             },
+                            320: {
+                                slidesPerView: 1,
+                            },
                         }}
                         navigation={true}
                         modules={[Autoplay, Navigation]}
@@ -117,7 +120,7 @@ const Sales = () => {
                             {randomData.map((product) => {
                                 return (
                                     <SwiperSlide key={product.id}>
-                                        <div className='shadow-md transition-all duration-300 hover:shadow-2xl border-2 border-[#E5EDEC] dark:border-bghead w-[320px] h-[535px] mx-[13px]'>
+                                        <div className='shadow-md transition-all duration-300 hover:shadow-2xl border-2 border-[#E5EDEC] dark:border-bghead xs:w-[305px] mdl:w-[320px] sm:w-[320px] sml:w-[320px] md:w-[320px] lg:w-[320px] xl:w-[320px] lxl:w-[320px] lgl:w-[320px] w-[320px] h-[535px] mx-[13px]'>
                                             <Link to={`/product/${product.id}`} className='flex bg-white ml-2 w-[300px] h-[360px] justify-center items-center mt-2 cursor-pointer'>
                                                 <img src={`/${product.image}`} alt={product.title} className='object-contain max-w-[270px] max-h-[350px]' />
                                             </Link>

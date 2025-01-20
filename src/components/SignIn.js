@@ -72,7 +72,7 @@ const SignIn = () => {
 
     return (
         <div className='relative flex h-screen bg-[#FFEEE8]'>
-            <div className='bg-white pt-[80px] pb-[60px] rounded-2xl px-7 shadow-[0_0_20px_5px_rgba(255,200,180,0.9)] w-[350px] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2'>
+            <div className='bg-white pt-[80px] pb-[60px] rounded-2xl px-7 shadow-[0_0_20px_5px_rgba(255,200,180,0.9)] xs:w-[315px] sm:w-[375px] sml:w-[375px] mdl:w-[375px] md:w-[375px] lg:w-[375px] xl:w-[375px] lxl:w-[375px] lgl:w-[375px] w-[375px] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2'>
                 <h1 className='font-Playwrite text-center text-[35px] font-semibold mb-3 text-[#604E48]'>Sign In</h1>
                 <p className='text-center text-[14px] mb-[70px]'>Enter your account</p>
                 <form className='flex flex-col' onSubmit={formik.handleSubmit}>

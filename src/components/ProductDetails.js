@@ -78,7 +78,7 @@ const ProductDetails = () => {
     return (
         <div className={`${theme === "dark" ? "dark" : ""}`}>
             <div className='bg-white dark:bg-bgall'>
-                <div className='container details xs:px-3 sm:flex-wrap sm:px-3 sml:px-3 md:px-3 sml:flex-wrap md:flex-wrap lg:flex-wrap xl:flex-nowrap lxl:flex-nowrap lgl:flex-nowrap mdl:flex-wrap mdl:px-3 lg:px-3 xl:px-3 lxl:px-0 lgl:px-3 py-10 mx-auto flex xs:pt-[220px] sm:pt-[220px] sml:pt-[220px] md:pt-[170px] mdl:pt-[170px] lg:pt-[170px] xl:pt-[170px] lxl:pt-[170px] lgl:pt-[170px] pt-[170px]'>
+                <div className='container details xs:px-3 xs:flex-wrap sm:flex-wrap sm:px-3 sml:px-3 md:px-3 sml:flex-wrap md:flex-wrap lg:flex-wrap xl:flex-nowrap lxl:flex-nowrap lgl:flex-nowrap mdl:flex-wrap mdl:px-3 lg:px-3 xl:px-3 lxl:px-0 lgl:px-3 py-10 mx-auto flex xs:pt-[220px] sm:pt-[220px] sml:pt-[220px] md:pt-[170px] mdl:pt-[170px] lg:pt-[170px] xl:pt-[170px] lxl:pt-[170px] lgl:pt-[170px] pt-[170px]'>
                     {cartAddMessage && (
                         <div className="w-[280px] fixed top-10 left-1/2 transform -translate-x-1/2 bg-[#E5EDEC] text-[#004D40] z-50 text-center py-3 px-5 rounded-lg font-medium">
                             {cartAddMessage}
@@ -89,7 +89,7 @@ const ProductDetails = () => {
                             {cartRemoveMessage}
                         </div>
                     )}
-                    <div className='sm:w-[100%] sml:w-[100%] lg:w-[100%] md:w-[100%] xl:w-[45%] lxl:w-[45%] lgl:w-[45%] mdl:w-[100%] w-[45%] h-[60%] flex flex-col items-center justify-center'>
+                    <div className='xs:w-[100%] sm:w-[100%] sml:w-[100%] lg:w-[100%] md:w-[100%] xl:w-[45%] lxl:w-[45%] lgl:w-[45%] mdl:w-[100%] w-[45%] h-[60%] flex flex-col items-center justify-center'>
                         <Swiper
                             style={{
                                 '--swiper-navigation-color': '#fff',
@@ -104,52 +104,52 @@ const ProductDetails = () => {
                         >
                             {details.image && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image2 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image2}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image2}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image3 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image3}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image3}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image4 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image4}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image4}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image5 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image5}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image5}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image6 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image6}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image6}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image7 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image7}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image7}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image8 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image8}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image8}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image9 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image9}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image9}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                             {details.image10 && (
                                 <SwiperSlide className='flex items-center justify-center my-auto'>
-                                    <img src={`/${details.image10}`} alt={details.title} className='object-contain max-w-[350px] max-h-[450px]' />
+                                    <img src={`/${details.image10}`} alt={details.title} className='object-contain lg:max-w-[350px] sm:max-w-[350px] xs:max-w-[300px] sml:max-w-[350px] md:max-w-[350px] xl:max-w-[350px] lxl:max-w-[350px] lgl:max-w-[350px] mdl:max-w-[350px] max-w-[350px] max-h-[450px]' />
                                 </SwiperSlide>
                             )}
                         </Swiper>
@@ -180,6 +180,9 @@ const ProductDetails = () => {
                                     slidesPerView: 5,
                                 },
                                 375: {
+                                    slidesPerView: 3,
+                                },
+                                320: {
                                     slidesPerView: 3,
                                 },
                             }}
@@ -241,7 +244,7 @@ const ProductDetails = () => {
                             )}
                         </Swiper>
                     </div>
-                    <div className='lg:ml-6 sm:ml-0 sml:ml-0 md:ml-6 xl:ml-6 lxl:ml-6 lgl:ml-6 mdl:ml-6 lg:mt-4 sml:mt-4 md:mt-4 xl:mt-0 lxl:mt-0 lgl:mt-0 mdl:mt-4 ml-6'>
+                    <div className='lg:ml-6 xs:ml-0 sm:ml-0 sml:ml-0 md:ml-6 xl:ml-6 lxl:ml-6 lgl:ml-6 mdl:ml-6 lg:mt-4 sml:mt-4 md:mt-4 xl:mt-0 lxl:mt-0 lgl:mt-0 mdl:mt-4 ml-6'>
                         <h1 className='text-[27px] dark:text-[#B8BABE] font-semibold'>{details.title}</h1>
                         <h1 className='text-[27px] text-[#004D40] dark:text-color1 opacity-70 font-medium mt-2 mb-6'>EGP {details.price}</h1>
                         {details.details && (
@@ -250,8 +253,8 @@ const ProductDetails = () => {
                                     .slice(0, 5)
                                     .map(([key, value], index) => (
                                         value && (
-                                            <div key={index} className='flex lg:w-[420px] sm:w-[300px] sml:w-[420px] md:w-[420px] xl:w-[420px] lxl:w-[420px] lgl:w-[420px] mdl:w-[420px] w-[420px]'>
-                                                <span className='w-[220px] dark:text-[#B8BABE] text-[16px] font-bold mb-1'>
+                                            <div key={index} className='flex lg:w-[420px] sm:w-[300px] xs:w-[300px] sml:w-[420px] md:w-[420px] xl:w-[420px] lxl:w-[420px] lgl:w-[420px] mdl:w-[420px] w-[420px]'>
+                                                <span className='w-[220px] lg:w-[220px] sm:w-[220px] xs:w-[180px] sml:w-[220px] md:w-[220px] xl:w-[220px] lxl:w-[220px] lgl:w-[220px] mdl:w-[220px] dark:text-[#B8BABE] text-[16px] font-bold mb-1'>
                                                     {formatKey(key)}
                                                 </span>
                                                 <span className='dark:text-[#B8BABE]'>{value}</span>
@@ -263,8 +266,8 @@ const ProductDetails = () => {
                                         .slice(5)
                                         .map(([key, value], index) => (
                                             value && (
-                                                <div key={index} className='flex lg:w-[420px] sm:w-[300px] sml:w-[420px] md:w-[420px] xl:w-[420px] lxl:w-[420px] lgl:w-[420px] mdl:w-[420px] w-[420px]'>
-                                                    <span className='w-[220px] dark:text-[#B8BABE] text-[16px] font-bold mb-1'>
+                                                <div key={index} className='flex lg:w-[420px] sm:w-[300px] xs:w-[300px] sml:w-[420px] md:w-[420px] xl:w-[420px] lxl:w-[420px] lgl:w-[420px] mdl:w-[420px] w-[420px]'>
+                                                    <span className='w-[220px] lg:w-[220px] sm:w-[220px] xs:w-[180px] sml:w-[220px] md:w-[220px] xl:w-[220px] lxl:w-[220px] lgl:w-[220px] mdl:w-[220px] dark:text-[#B8BABE] text-[16px] font-bold mb-1'>
                                                         {formatKey(key)}
                                                     </span>
                                                     <span className='dark:text-[#B8BABE]'>{value}</span>
