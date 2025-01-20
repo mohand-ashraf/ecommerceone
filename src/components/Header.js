@@ -107,7 +107,7 @@ const Header = () => {
                         </Link>
                     </nav>
                     <div className='xs:flex sm:flex sml:flex md:hidden mdl:hidden lg:hidden xl:hidden lxl:hidden lgl:hidden flex p-[7px] justify-center items-center bg-white dark:bg-bghead border-2 border-solid border-[#004D40] dark:border-color1 rounded-md'>
-                        <input type='search' placeholder='What do you want ?' className='text-[#005E55] dark:text-color1 xs:pr-10 sm:pr-20 sml:pr-20 md:pr-20 mdl:pr-20 lg:pr-20 xl:pr-20 lxl:pr-20 lgl:pr-20 pr-20 bg-transparent outline-none' />
+                        <input type='search' placeholder='What do you want ?' className='text-[#005E55] dark:text-color1 xs:pr-5 sm:pr-20 sml:pr-20 md:pr-20 mdl:pr-20 lg:pr-20 xl:pr-20 lxl:pr-20 lgl:pr-20 pr-20 bg-transparent outline-none' />
                         <FaSearch className='text-[#004D40] dark:text-color1' />
                     </div>
                     <nav className='xs:hidden sm:hidden sml:hidden md:hidden mdl:hidden lg:flex xl:flex lxl:flex lgl:flex flex gap-6 items-center text-[#4B5563] dark:text-[#B8BABE] text-[17px] font-medium'>
